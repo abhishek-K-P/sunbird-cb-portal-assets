@@ -1097,6 +1097,60 @@
       "contentImg": "assets/icons/learner-advisory/follow-suggestions.png"
     }
   ],
+  "surveyForm": {
+    "active": true,
+    "surveyFormData": [
+      {
+        "title": "Take the iGOT Survey, help us make iGOT even better!",
+        "content": "Take a few minutes to complete this survey and contribute to enhancing the iGOT learning experience",
+        "btnTitle": "Click here",
+        "ImageUrl": "assets/icons/learner-advisory/surveyEdit.png",
+        "surveyId": "668e250da8bfb500083136b1"
+      }
+    ]
+  },
+  "surveyPopup": {
+    "active": true,
+    "banners": {
+      "l": "assets/instances/eagle/survey-img/desktop.svg",
+      "m": "assets/instances/eagle/survey-img/mobile.svg",
+      "s": "assets/instances/eagle/survey-img/mobile.svg",
+      "xl": "assets/instances/eagle/survey-img/desktop.svg",
+      "xs": "assets/instances/eagle/survey-img/mobile.svg",
+      "xxl": "assets/instances/eagle/survey-img/desktop.svg"
+    },
+    "mobileBanner": "assets/instances/eagle/survey-img/survey_pop_up_mobile.png",
+    "buttonName": "Take Survey",
+    "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e250da8bfb500083136b1"
+  },
+  "mdoChannelMobile": {
+    "qa": {
+      "active": true,
+      "orgBookmarkId": "38fd55c0-2723-11ef-b7bd-6754f54dd52f"
+    },
+    "uat": {
+      "active": true,
+      "orgBookmarkId": "d8603620-3775-11ef-922d-897d09cffbf2"
+    },
+    "prod": {
+      "active": false,
+      "orgBookmarkId": ""
+    }
+  },
+  "micrositeMobile": {
+    "qa": {
+      "active": true,
+      "featuredProviderDoId": "do_1140809843675136001224"
+    },
+    "uat": {
+      "active": true,
+      "featuredProviderDoId": "do_114081134376157184129"
+    },
+    "prod": {
+      "active": true,
+      "featuredProviderDoId": "do_1140809851011317761688"
+    }
+  },
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/company/karmayogi-bharat/",
@@ -2196,12 +2250,12 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "l": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg",
         "m": "assets/instances/eagle/banners/orgs/new-banner/1/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg",
         "xs": "assets/instances/eagle/banners/orgs/new-banner/1/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/l.png"
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/1/lg.jpg"
       },
       "redirectUrl": "/app/globalsearch",
       "openInNewTab": false,
@@ -2255,12 +2309,12 @@
     {
       "active": true,
       "banners": {
-        "l": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "l": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg",
         "m": "assets/instances/eagle/banners/orgs/new-banner/2/m.png",
         "s": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png",
+        "xl": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg",
         "xs": "assets/instances/eagle/banners/orgs/new-banner/2/s.png",
-        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/l.png"
+        "xxl": "assets/instances/eagle/banners/orgs/new-banner/2/lg.jpg"
       },
       "redirectUrl": "/app/globalsearch",
       "queryParams": {
@@ -3032,7 +3086,7 @@
               "requestRequired": true,
               "showTabDataCount": false,
               "maxWidgets": 12,
-              "nodataMsg": "You will find training institutions added courses here.",
+              "nodataMsg": "no Data Course",
               "request": {
                 "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
                 "ciosContent": {
