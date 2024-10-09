@@ -301,11 +301,7 @@
               "routerLink": "/author/cbp/market-place-content",
               "queryParams": "published",
               "requiredRoles": [
-                "admin",
-                "super-admin",
-                "content-admin",
-                "editor",
-                "content_creator"
+                "spv_publisher"
               ]
             }
           ]
