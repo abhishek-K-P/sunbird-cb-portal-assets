@@ -1126,10 +1126,11 @@
   "nationalLearningWeek": {
     "enabled": true,
     "startDate": "19-10-2024",
-    "endDate": "25-10-2024",
+    "endDate": "27-10-2024",
     "title": "Celebrate National Learning Week",
     "description": "Karmayogi Saptah, also known as the National Learning Week, is a week-long event under Mission Karmayogi designed to foster a culture of continuous learning and development among civil servants.",
-    "buttonText": "View More"
+    "buttonText": "View More",
+    "width": "30px"
   },
   "mdoChannelMobile": {
     "dev": {
