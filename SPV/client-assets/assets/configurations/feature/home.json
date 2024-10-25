@@ -260,6 +260,22 @@
                     ]
                 },
                 {
+                    "name": "Marketplace Providers",
+                    "key": "marketplace-providers",
+                    "fragment": false,
+                    "render": true,
+                    "badges": {
+                        "enabled": false,
+                        "uri": ""
+                    },
+                    "enabled": true,
+                    "routerLink": "/app/home/marketplace-providers",
+                    "requiredRoles": [
+                        "SPV_ADMIN",
+                        "spv_admin"
+                    ]
+                },
+                {
                     "name": "Surveys",
                     "key": "Surveys",
                     "fragment": false,

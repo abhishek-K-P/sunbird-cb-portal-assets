@@ -941,7 +941,8 @@
         "karmayogiTalks": "Karmayogi Talks",
         "live": "Live",
         "karmayogiSaptah": "Karmayogi Saptah",
-        "moreKarmaPoints": "more KarmaPoints"
+        "moreKarmaPoints": "more KarmaPoints",
+        "completedEvent": "You completed this event on"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -951,7 +952,8 @@
         "eventType": "Event Type",
         "hostedBy": "Hosted By",
         "enroll": "Enroll",
-        "noBatchErrormsg":"No batches available!"
+        "noBatchErrormsg": "No batches available!",
+        "certificateInfo":"Your Certificate will be generated within 1 week."
     },
     "eventPresentorsCard": {
         "host": "Host"
@@ -1315,9 +1317,9 @@
         "courseEnrollement": "for your 1st course enrolment!",
         "enrollEvent": "for your event enrolment.",
         "enrollTipEvent": "For every enrollment you get 5 karma points",
-        "eventCompleteTipEvent": "Every event completion automatically gets you 5 Karma Points.",
+        "eventCompleteTipEvent": "Every event completion automatically gets you 10 Karma Points.",
         "byCompletingEvent": "by completing this event.",
-        "completeBeforeTextEvent": "Congrats! You've completed the event and earned",
+        "completeBeforeTextEvent": "Congrats! You've completed the event and earned 10 karma points",
         "fKarmaPointsEvent": "5 Karma Points"
     },
     "publicHome": {
@@ -1419,12 +1421,13 @@
         "programs": "Programs",
         "assessments": "Assessments",
         "showAll": "Show all",
+        "liveEvents":"Live Events",
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
         "recentlyAdded": "Recently added",
         "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
-        "today'sEvents": "Today's events",
+        "today'sEvents": "Today's Events",
         "noDataCourse": "No Courses Available.",
         "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any content in progress.",
         "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content that needs to be completed within the next 30 days.",
