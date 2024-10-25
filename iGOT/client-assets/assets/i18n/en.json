@@ -500,7 +500,8 @@
         "selfLearning": "Self learning",
         "completedCourse": "You completed this course on",
         "provider": "Provider",
-        "objectives": "Objectives"
+        "objectives": "Objectives",
+        "comments": "Comments"
     },
     "ratingsummary": {
         "ratings": "ratings",
