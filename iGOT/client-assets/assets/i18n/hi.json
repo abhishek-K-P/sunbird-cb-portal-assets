@@ -500,7 +500,8 @@
     "selfLearning": "स्वाध्याय",
     "completedCourse": "आपने यह कोर्स पूरा लिया",
     "provider": "प्रोवाईडर",
-    "objectives": "उद्देश्य"
+    "objectives": "उद्देश्य",
+    "comments": "टिप्पणियाँ"
   },
   "ratingsummary": {
     "ratings": "रेट",
