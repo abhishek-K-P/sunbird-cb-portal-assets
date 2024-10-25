@@ -287,6 +287,22 @@
                 "content_creator",
                 "spv_publisher"
               ]
+            },
+            {
+              "name": "Marketplace Content",
+              "key": "cbp",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/market-place-content",
+              "queryParams": "published",
+              "requiredRoles": [
+                "spv_publisher"
+              ]
             }
           ]
         },
