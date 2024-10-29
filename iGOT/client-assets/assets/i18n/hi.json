@@ -952,8 +952,8 @@
     "eventType": "ईवेंट का प्रकार",
     "hostedBy": "के द्वारा होस्ट किया गया",
     "enroll": "नामांकन करें।",
-    "noBatchErrormsg":"कोई बैच उपलब्ध नहीं है!",
-    "certificateInfo":"आपको अपना सर्टिफिकेट 1 सप्ताह के अंदर में प्राप्त हो जाएगा।"
+    "noBatchErrormsg": "कोई बैच उपलब्ध नहीं है!",
+    "certificateInfo": "आपको अपना सर्टिफिकेट 1 सप्ताह के अंदर में प्राप्त हो जाएगा।"
   },
   "eventPresentorsCard": {
     "host": "होस्ट"
@@ -1422,8 +1422,8 @@
     "recentlyAdded": "नए जोड़े गए",
     "youWillFindYourCompletedCourses/programHere": "आपको यहां अपने पूरे किए गए कोर्स/कार्यक्रम मिलेंगे।",
     "today'sEvents": "आज के इवेंट्स",
-    "keyspeakersevents": "मुख्य वक्ता कार्यक्रम", 
-    "liveEvents":"लाइव इवेंट",
+    "keyspeakersevents": "मुख्य वक्ता कार्यक्रम",
+    "liveEvents": "लाइव इवेंट",
     "noDataCourse": "कोई पाठ्यक्रम उपलब्ध नहीं.",
     "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई सामग्री प्रगति पर नहीं है।",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "आपको वह सभी कंटेन्ट दिखेंगे जिसकी नियत तारीख 30 दिनों के भीतर है।",
@@ -2250,6 +2250,7 @@
     "category": "श्रेणी",
     "officePinCode": "ऑफिस पिन कोड",
     "eHRMSId": "ईएचआरएमएस आईडी/बाहरी सिस्टम आईडी",
+    "dor": "सेवानिवृत्ति की तिथि",
     "saveChanges": "परिवर्तनों को सहेजें",
     "tags": "टैग",
     "tagsNotFound": "कोई टैग नहीं मिला!",
