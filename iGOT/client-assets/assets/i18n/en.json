@@ -403,6 +403,7 @@
         "content": "Content",
         "sessions": "Sessions",
         "discussion": "Discussion",
+        "discussions": "Discussions",
         "summary": "Summary",
         "description": "Description",
         "viewMore": "view more",
@@ -500,7 +501,8 @@
         "selfLearning": "Self learning",
         "completedCourse": "You completed this course on",
         "provider": "Provider",
-        "objectives": "Objectives"
+        "objectives": "Objectives",
+        "comments": "Comments"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -938,7 +940,11 @@
         "curatedEvents": "Curated events",
         "mdoEvents": "Events in your MDO",
         "webinar": "Webinar",
-        "karmayogiTalks": "Karmayogi Talks"
+        "karmayogiTalks": "Karmayogi Talks",
+        "live": "Live",
+        "karmayogiSaptah": "Karmayogi Saptah",
+        "moreKarmaPoints": "more KarmaPoints",
+        "completedEvent": "You completed this event on"
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -946,7 +952,10 @@
         "joinEvent": "Join event",
         "eventIsYetToStart": "Event is yet to start",
         "eventType": "Event Type",
-        "hostedBy": "Hosted By"
+        "hostedBy": "Hosted By",
+        "enroll": "Enroll",
+        "noBatchErrormsg": "No batches available!",
+        "certificateInfo": "Your Certificate will be generated within 1 week."
     },
     "eventPresentorsCard": {
         "host": "Host"
@@ -1307,7 +1316,13 @@
         "completeTip": "For every My iGOT course you complete (as per ACBP), you will earn 15 Karma Points. For every other course you complete, you will earn 5 Karma Points, up to a maximum of four courses per month. Start learning and watch your Karma grow!",
         "acbpCompleteTip": "Course completion earns you 15 Karma Points. Additionally, successfully completing all final assessments gets you 5 extra Karma Points.",
         "fKarmaPoints": "5 Karma Points",
-        "courseEnrollement": "for your 1st course enrolment!"
+        "courseEnrollement": "for your 1st course enrolment!",
+        "enrollEvent": "for your event enrolment.",
+        "enrollTipEvent": "For every enrollment you get 5 karma points",
+        "eventCompleteTipEvent": "Every event completion automatically gets you 10 Karma Points.",
+        "byCompletingEvent": "by completing this event.",
+        "completeBeforeTextEvent": "Congrats! You've completed the event and earned 10 karma points",
+        "fKarmaPointsEvent": "5 Karma Points"
     },
     "publicHome": {
         "mainSectionContent": "Learn. Network. Grow your career.",
@@ -1408,12 +1423,14 @@
         "programs": "Programs",
         "assessments": "Assessments",
         "showAll": "Show all",
+        "liveEvents": "Live Events",
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
         "recentlyAdded": "Recently added",
         "youWillFindYourCompletedCourses/programHere": "You will find your completed courses/program here",
-        "today'sEvents": "Today's events",
+        "today'sEvents": "Today's Events",
+        "keyspeakersevents": "Key Speakers Events",
         "noDataCourse": "No Courses Available.",
         "youDon’tHaveAnyNewCourseInProgress.": "You don’t have any content in progress.",
         "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "You will see all the content that needs to be completed within the next 30 days.",
@@ -2167,6 +2184,7 @@
         "category": "Category",
         "officePinCode": "Office Pin Code",
         "eHRMSId": "eHRMS ID/External System ID",
+        "dor": "Date of Retirement",
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
