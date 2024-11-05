@@ -368,6 +368,12 @@
     "commentsList": {
       "cardType": "topLevel",
       "showActions": true,
+      "reportIcon": {
+        "show": true,
+        "icon": "report",
+        "successMsg": "Reported successfully! Thank you for reporting.",
+        "errorMsg": "Something went wrong! please try reporting again later."
+      },
       "actions": {
         "like": {
           "show": true,
@@ -414,6 +420,12 @@
         "replyCardConfig": {
           "cardType": "reply",
           "showActions": true,
+          "reportIcon": {
+            "show": true,
+            "icon": "report",
+            "successMsg": "Reported successfully! Thank you for reporting.",
+            "errorMsg": "Something went wrong! please try reporting again later."
+          },
           "actions": {
             "like": {
               "show": true,

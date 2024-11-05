@@ -403,6 +403,7 @@
         "content": "Content",
         "sessions": "Sessions",
         "discussion": "Discussion",
+        "discussions": "Discussions",
         "summary": "Summary",
         "description": "Description",
         "viewMore": "view more",
@@ -954,7 +955,7 @@
         "hostedBy": "Hosted By",
         "enroll": "Enroll",
         "noBatchErrormsg": "No batches available!",
-        "certificateInfo":"Your Certificate will be generated within 1 week."
+        "certificateInfo": "Your Certificate will be generated within 1 week."
     },
     "eventPresentorsCard": {
         "host": "Host"
@@ -1422,7 +1423,7 @@
         "programs": "Programs",
         "assessments": "Assessments",
         "showAll": "Show all",
-        "liveEvents":"Live Events",
+        "liveEvents": "Live Events",
         "updateYourProfile": "Update your profile and get it verified",
         "updateNow": "Update now",
         "myDiscussions": "My Discussions",
@@ -2183,6 +2184,7 @@
         "category": "Category",
         "officePinCode": "Office Pin Code",
         "eHRMSId": "eHRMS ID/External System ID",
+        "dor": "Date of Retirement",
         "saveChanges": "Save Changes",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",

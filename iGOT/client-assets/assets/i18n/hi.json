@@ -403,6 +403,7 @@
     "content": "कंटेन्ट",
     "sessions": "सत्र",
     "discussion": "चर्चा",
+    "discussions": "चर्चा",
     "summary": "सारांश",
     "description": "विवरण",
     "viewMore": "अधिक देखें",
@@ -952,8 +953,8 @@
     "eventType": "ईवेंट का प्रकार",
     "hostedBy": "के द्वारा होस्ट किया गया",
     "enroll": "नामांकन करें।",
-    "noBatchErrormsg":"कोई बैच उपलब्ध नहीं है!",
-    "certificateInfo":"आपको अपना सर्टिफिकेट 1 सप्ताह के अंदर में प्राप्त हो जाएगा।"
+    "noBatchErrormsg": "कोई बैच उपलब्ध नहीं है!",
+    "certificateInfo": "आपको अपना सर्टिफिकेट 1 सप्ताह के अंदर में प्राप्त हो जाएगा।"
   },
   "eventPresentorsCard": {
     "host": "होस्ट"
@@ -2250,6 +2251,7 @@
     "category": "श्रेणी",
     "officePinCode": "ऑफिस पिन कोड",
     "eHRMSId": "ईएचआरएमएस आईडी/बाहरी सिस्टम आईडी",
+    "dor": "सेवानिवृत्ति की तिथि",
     "saveChanges": "परिवर्तनों को सहेजें",
     "tags": "टैग",
     "tagsNotFound": "कोई टैग नहीं मिला!",

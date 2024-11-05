@@ -950,7 +950,7 @@
     "eventType": "પ્રસંગનો પ્રકાર",
     "hostedBy": "દ્વારા હોસ્ટ કરાયેલ",
     "enroll": "નોંધણી કરો",
-    "noBatchErrormsg":"કોઈ બૅચેસ ઉપલબ્ધ નથી!"
+    "noBatchErrormsg": "કોઈ બૅચેસ ઉપલબ્ધ નથી!"
   },
   "eventPresentorsCard": {
     "host": "યજમાન"
@@ -1313,7 +1313,7 @@
     "fKarmaPoints": "5 કર્મ બિંદુઓ",
     "courseEnrollement": "તમારા પ્રથમ અભ્યાસક્રમની નોંધણી માટે!",
     "eventCompleteTipEvent": "દરેક ઇવેન્ટ પૂર્ણ થવાથી તમને આપમેળે 10 કર્મ પોઇન્ટ્સ મળે છે.",
-     "byCompletingEvent": "આ પ્રસંગને પૂર્ણ કરીને.|"
+    "byCompletingEvent": "આ પ્રસંગને પૂર્ણ કરીને.|"
   },
   "publicHome": {
     "mainSectionContent": "શીખો. નેટવર્ક. તમારી કારકિર્દીમાં વધારો કરો.",
@@ -2150,6 +2150,7 @@
     "category": "શ્રેણી",
     "officePinCode": "ઓફિસ પિન કોડ",
     "eHRMSId": "eHRMS ID/બાહ્ય સિસ્ટમ ID",
+    "dor": "નિવૃત્તિની તારીખ",
     "saveChanges": "ફેરફારો સાચવો",
     "tags": "ટૅગ્સ",
     "tagsNotFound": "કોઈ ટૅગ્સ મળ્યા નથી!",
