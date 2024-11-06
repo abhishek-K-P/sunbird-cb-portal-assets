@@ -45,7 +45,7 @@
       ]
     },
     "sampleFileDownloadText": "Download Sample File",
-    "maxFileSizeText": "Max file size: 100 MB",
+    "maxFileSizeText": "Max file size: 10 MB",
     "supportedFileTypeText": "Supported file types: xlsx",
     "supportedFileTypeText2": "Upload xlsx format file only",
     "noFileUploaded": "No File Uploaded",
