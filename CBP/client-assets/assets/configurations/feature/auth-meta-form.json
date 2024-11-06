@@ -724,26 +724,20 @@
       ]
     },
     "disabledFor": {},
-    "mandatoryFor": {
-      "Course": [],
-      "Program": [],
-      "Curated Program": [],
-      "Blended Program":[],
-      "Learning Resource": []
-    },
+    "mandatoryFor": {},
     "notDisabledFor": {},
     "notMandatoryFor": {},
     "notShowFor": {
       "Standalone Assessment": [],
       "CourseUnit": [],
-      "Learning Path": []
-    },
-    "showFor": {
+      "Learning Path": [],
       "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program":[],
       "Learning Resource": []
+    },
+    "showFor": {
     },
     "type": "array"
   },
