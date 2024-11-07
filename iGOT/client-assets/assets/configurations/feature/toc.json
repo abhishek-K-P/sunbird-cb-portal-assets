@@ -359,7 +359,7 @@
         "color": "#006400"
       },
       "commentBox": {
-        "placeholder": "Ask a question or post a comment"
+        "placeholder": "Start a discussion"
       },
       "postBtn": {
         "text": "Post"
@@ -372,7 +372,9 @@
         "show": true,
         "icon": "report",
         "successMsg": "Reported successfully! Thank you for reporting.",
-        "errorMsg": "Something went wrong! please try reporting again later."
+        "errorMsg": "Something went wrong! please try reporting again later.",
+        "showToolTip": true,
+        "toolTipText":"Report this comment"
       },
       "actions": {
         "like": {
@@ -411,7 +413,7 @@
             "color": "#006400"
           },
           "commentBox": {
-            "placeholder": "post a reply"
+            "placeholder": "Add a comment"
           },
           "postBtn": {
             "text": "Reply"
@@ -424,7 +426,9 @@
             "show": true,
             "icon": "report",
             "successMsg": "Reported successfully! Thank you for reporting.",
-            "errorMsg": "Something went wrong! please try reporting again later."
+            "errorMsg": "Something went wrong! please try reporting again later.",
+            "showToolTip": true,
+            "toolTipText":"Report this comment"
           },
           "actions": {
             "like": {
