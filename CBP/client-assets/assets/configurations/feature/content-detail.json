@@ -177,6 +177,15 @@
                 "rolesRequired": ["program_coordinator"],
                 "data": {},
                 "primaryCategory": ["Blended Program"]
+            },
+            {
+                "name": "Reports",
+                "key": "reports-details",
+                "type": "reports-details",
+                "enabled": true,
+                "rolesRequired": ["program_coordinator"],
+                "data": {},
+                "primaryCategory": ["Blended Program"]
             }
         ]
     }
