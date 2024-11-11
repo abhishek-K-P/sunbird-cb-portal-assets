@@ -343,7 +343,7 @@
         "isFirstComment": true,
         "commentTreeId": "",
         "hierarchyPath": [],
-        "entityType": "igot",
+        "entityType": "COURSE",
         "entityId": "do_11407955440633446419",
         "workflow": "TOC"
       },
@@ -355,10 +355,11 @@
         "show": true,
         "size": "ml",
         "photoUrl": "https://portal.dev.karmayogibharat.net/assets/public/profileImage/1725443303744_images.jpeg",
-        "name": "Christopher Fernandes"
+        "name": "Christopher Fernandes",
+        "color": "#006400"
       },
       "commentBox": {
-        "placeholder": "Ask a question or post a comment"
+        "placeholder": "Start a discussion"
       },
       "postBtn": {
         "text": "Post"
@@ -367,6 +368,14 @@
     "commentsList": {
       "cardType": "topLevel",
       "showActions": true,
+      "reportIcon": {
+        "show": true,
+        "icon": "report",
+        "successMsg": "Reported successfully! Thank you for reporting.",
+        "errorMsg": "Something went wrong! please try reporting again later.",
+        "showToolTip": true,
+        "toolTipText":"Report this comment"
+      },
       "actions": {
         "like": {
           "show": true,
@@ -388,7 +397,7 @@
             "isFirstComment": false,
             "commentTreeId": "",
             "hierarchyPath": [],
-            "entityType": "igot",
+            "entityType": "COURSE",
             "entityId": "do_11407955440633446419",
             "workflow": "TOC"
           },
@@ -400,10 +409,11 @@
             "show": true,
             "size": "ml",
             "photoUrl": "https://portal.dev.karmayogibharat.net/assets/public/profileImage/1725443303744_images.jpeg",
-            "name": "Christopher Fernandes"
+            "name": "Christopher Fernandes",
+            "color": "#006400"
           },
           "commentBox": {
-            "placeholder": "post a reply"
+            "placeholder": "Add a comment"
           },
           "postBtn": {
             "text": "Reply"
@@ -412,6 +422,14 @@
         "replyCardConfig": {
           "cardType": "reply",
           "showActions": true,
+          "reportIcon": {
+            "show": true,
+            "icon": "report",
+            "successMsg": "Reported successfully! Thank you for reporting.",
+            "errorMsg": "Something went wrong! please try reporting again later.",
+            "showToolTip": true,
+            "toolTipText":"Report this comment"
+          },
           "actions": {
             "like": {
               "show": true,
@@ -428,5 +446,6 @@
         "text": "No comments found!"
       }
     }
-  }
+  },
+  "commentsTab": true
 }

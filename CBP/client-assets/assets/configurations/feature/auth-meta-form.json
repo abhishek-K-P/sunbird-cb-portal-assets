@@ -724,6 +724,154 @@
       ]
     },
     "disabledFor": {},
+    "mandatoryFor": {},
+    "notDisabledFor": {},
+    "notMandatoryFor": {},
+    "notShowFor": {
+      "Standalone Assessment": [],
+      "CourseUnit": [],
+      "Learning Path": [],
+      "Course": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program":[],
+      "Learning Resource": []
+    },
+    "showFor": {
+    },
+    "type": "array"
+  },
+  "competencies_v6": {
+    "defaultValue": {
+      "Collection": [
+        {
+          "condition": {
+            "contentType": [
+              "Collection"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course Unit": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseUnit"
+            ],
+            "primaryCategory": [
+              "Course Unit"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Program"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Curated Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Curated Program"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Blended Program": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Blended Program"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Practice Question Set": [
+        {
+          "condition": {
+            "contentType": [
+              "PracticeResource"
+            ],
+            "primaryCategory": [
+              "Practice Question Set"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "CourseAssessment"
+            ],
+            "primaryCategory": [
+              "Course Assessment"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Standalone Assessment": [
+        {
+          "condition": {
+            "contentType": [
+              "StandaloneAssessment"
+            ],
+            "primaryCategory": [
+              "Standalone Assessment"
+            ]
+          },
+          "value": []
+        }
+      ]
+    },
+    "disabledFor": {},
     "mandatoryFor": {
       "Course": [],
       "Program": [],
@@ -5765,26 +5913,40 @@
           },
           "value": ""
         }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
     },
     "mandatoryFor": {
-      "Learning Resource": []
+      "Learning Resource": [],
+      "Course": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
     },
     "notShowFor": {
       "CourseUnit": [],
-      "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
     "showFor": {
-      "Learning Resource": []
+      "Learning Resource": [],
+      "Course": []
     },
     "type": "string"
   },
@@ -5802,6 +5964,19 @@
           },
           "value": ""
         }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -5814,14 +5989,14 @@
     },
     "notShowFor": {
       "CourseUnit": [],
-      "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
     "showFor": {
-      "Learning Resource": []
+      "Learning Resource": [],
+      "Course": []
     },
     "type": "string"
   },
@@ -5839,6 +6014,19 @@
           },
           "value": ""
         }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -5849,14 +6037,14 @@
     },
     "notShowFor": {
       "CourseUnit": [],
-      "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
     "showFor": {
-      "Learning Resource": []
+      "Learning Resource": [],
+      "Course": []
     },
     "type": "string"
   },
@@ -5874,6 +6062,19 @@
           },
           "value": ""
         }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
       ]
     },
     "disabledFor": {
@@ -5884,14 +6085,14 @@
     },
     "notShowFor": {
       "CourseUnit": [],
-      "Course": [],
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
       "Standalone Assessment": []
     },
     "showFor": {
-      "Learning Resource": []
+      "Learning Resource": [],
+      "Course": []
     },
     "type": "string"
   },
@@ -7613,5 +7814,155 @@
     "mobileBanner": "assets/instances/eagle/survey-img/survey_pop_up_mobile.png",
     "buttonName": "Take Survey",
     "surveyUrl": "https://portal.igotkarmayogi.gov.in/surveyml/668e252fa8bfb5000831371f"
-}
+  },
+  "contextYear": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": []
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {
+      "Learning Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "CourseUnit": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": []
+    },
+    "showFor": {
+      "Learning Resource": [],
+      "Course": []
+    },
+    "type": "array"
+  },
+  "contextSDGs": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": []
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {
+      "Learning Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "CourseUnit": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": []
+    },
+    "showFor": {
+      "Learning Resource": [],
+      "Course": []
+    },
+    "type": "array"
+  },
+  "contextStateOrUTs": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": []
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": []
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {
+      "Learning Resource": []
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+      "CourseUnit": [],
+      "Program": [],
+      "Curated Program": [],
+      "Blended Program": [],
+      "Standalone Assessment": []
+    },
+    "showFor": {
+      "Learning Resource": [],
+      "Course": []
+    },
+    "type": "array"
+  }
 }
