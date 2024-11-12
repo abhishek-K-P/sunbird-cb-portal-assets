@@ -73,6 +73,8 @@
         "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
+        "contents":"Contents",
+        "events":"Events",
         "myLearning": "My Learning",
         "inProgress": "In Progress",
         "completed": "Completed",
@@ -1351,6 +1353,8 @@
         "growSection": "Learn. Network. Take your career growth to the next level."
     },
     "home": {
+        "contents":"Contents",
+        "events":"Events",
         "learnHub": "Go to learn hub",
         "updateTitle": "Update your mobile number",
         "updateMobile": "Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1820,6 +1824,7 @@
         "removeFilters": "Try removing the filters or search using different keywords"
     },
     "searchfilters": {
+        "karmayogiSaptah": "Karmayogi Saptah",
         "filterSearch": "Filter search",
         "contentType": "Content Type",
         "program": "Program",
