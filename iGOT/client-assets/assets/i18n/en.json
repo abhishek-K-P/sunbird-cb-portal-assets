@@ -73,6 +73,8 @@
         "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
+        "contents":"Contents",
+        "events":"Events",
         "myLearning": "My Learning",
         "inProgress": "In Progress",
         "completed": "Completed",

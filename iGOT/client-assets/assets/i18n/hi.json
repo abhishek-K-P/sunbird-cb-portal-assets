@@ -73,6 +73,8 @@
     "seeAllPendingRequests": "सभी लंबित अनुरोध देखें"
   },
   "seeAllHome": {
+    "contents":"कंटेन्ट",
+    "events": "ईवेंट",
     "myLearning": "मेरा सीखना",
     "inProgress": "प्रगति में",
     "completed": "पूरा किया।",
