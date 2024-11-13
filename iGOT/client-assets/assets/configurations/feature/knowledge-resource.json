@@ -1,49 +1,49 @@
 {
-    "tabs": [
-        {
-            "name": "allKnowledgeResources",
-            "key": "KnowledgeResourceAll",
-            "badges": {
-                "enabled": true,
-                "uri": ""
-            },
-            "enabled": true,
-            "routerLink": "/app/knowledge-resource/all"
-        },
-        {
-            "name": "savedKnowledgeResource",
-            "key": "KnowledgeResourceSaved",
-            "badges": {
-                "enabled": true,
-                "uri": ""
-            },
-            "enabled": true,
-            "routerLink": "/app/knowledge-resource/saved"
-        }
-    ],
-    "banner": {
-        "widgetType": "slider",
-        "widgetSubType": "sliderBanners",
-        "style": {
-            "border-radius": "12px"
-        },
-        "widgetData": [
-            {
-                "banners": {
-                    "l": "assets/instances/eagle/banners/hubs/knowledgeresource/l.png",
-                    "m": "assets/instances/eagle/banners/hubs/knowledgeresource/m.png",
-                    "s": "assets/instances/eagle/banners/hubs/knowledgeresource/s.png",
-                    "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/xl.png",
-                    "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/xs.png",
-                    "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/Events.png"
-                }
-            }
-        ]
+  "tabs": [
+    {
+      "name": "allKnowledgeResources",
+      "key": "KnowledgeResourceAll",
+      "badges": {
+        "enabled": true,
+        "uri": ""
+      },
+      "enabled": true,
+      "routerLink": "/app/knowledge-resource/all"
     },
-    "stripConfig" :  { 
-        
-      "order": 1,
-      "strips": [ {      
+    {
+      "name": "savedKnowledgeResource",
+      "key": "KnowledgeResourceSaved",
+      "badges": {
+        "enabled": true,
+        "uri": ""
+      },
+      "enabled": true,
+      "routerLink": "/app/knowledge-resource/saved"
+    }
+  ],
+  "banner": {
+    "widgetType": "slider",
+    "widgetSubType": "sliderBanners",
+    "style": {
+      "border-radius": "12px"
+    },
+    "widgetData": [
+      {
+        "banners": {
+          "l": "assets/instances/eagle/banners/hubs/knowledgeresource/l.png",
+          "m": "assets/instances/eagle/banners/hubs/knowledgeresource/m.png",
+          "s": "assets/instances/eagle/banners/hubs/knowledgeresource/s.png",
+          "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/xl.png",
+          "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/xs.png",
+          "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/Events.png"
+        }
+      }
+    ]
+  },
+  "stripConfig": {
+    "order": 1,
+    "strips": [
+      {
         "active": true,
         "key": "recentlyAdded",
         "logo": "school",
@@ -54,7 +54,7 @@
           "icon": ""
         },
         "sliderConfig": {
-          "showNavs" : false,
+          "showNavs": false,
           "showDots": false,
           "maxWidgets": 3
         },
@@ -80,54 +80,62 @@
         "loaderConfig": {
           "cardSubType": "card-resource-skeleton"
         },
-        "tabs": [
-        ],
+        "tabs": [],
         "filters": [],
         "request": {
           "searchV6": {
             "request": {
-                "filters": {
-                    "contentType": [
-                        "Resource"
-                    ],
-                    "mimeType": [
-                      "application/pdf",
-                      "video/mp4",
-                      "text/x-url",
-                      "audio/mpeg"
-                    ]
-                },
-                "query": "",
-                "limit": 50,
-                "sort_by": {
-                    "lastUpdatedOn": "desc"
-                },
-                "fields": [
+              "filters": {
+                "contentType": [
+                  "Resource"
+                ],
+                "mimeType": [
+                  "application/pdf",
+                  "video/mp4",
+                  "text/x-url",
+                  "audio/mpeg"
                 ]
+              },
+              "query": "",
+              "limit": 50,
+              "sort_by": {
+                "lastUpdatedOn": "desc"
+              },
+              "fields": []
             },
             "query": ""
+          }
         }
-        }
-    }
-]
-    },
-    "facetReqData": {
-      "request": {
-          "filters": {
-              "status": ["Live"]
-          },
-          "fields": ["identifier", "courseCategory", "status"],
-          "offset": 0,
-          "limit": 0,
-          "sort_by": {
-              "lastUpdatedOn": "desc"
-          },
-          "facets": [
-            "resourceCategory",
-            "sectorName",
-            "subSectorName"
-          ]
       }
+    ]
+  },
+  "facetReqData": {
+    "request": {
+      "filters": {
+        "status": [
+          "Live"
+        ]
+      },
+      "fields": [
+        "identifier",
+        "courseCategory",
+        "status"
+      ],
+      "offset": 0,
+      "limit": 0,
+      "sort_by": {
+        "lastUpdatedOn": "desc"
+      },
+      "facets": [
+        "resourceCategory",
+        "sectorName",
+        "subSectorName",
+        "contextStateOrUTs",
+        "contextYear",
+        "contextSDGs",
+        "courseCategory"
+      ]
+    }
   },
   "allowedCategories": [
     "events",
