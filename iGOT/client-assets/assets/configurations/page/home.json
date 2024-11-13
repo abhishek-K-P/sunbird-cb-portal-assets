@@ -2179,7 +2179,9 @@
           "request": {
             "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
             "ciosContent": {
-              "filterCriteriaMap": {},
+              "filterCriteriaMap": {
+                "isActive":true
+              },
               "requestedFields": [],
               "pageNumber": 0,
               "pageSize": 50,
@@ -3243,7 +3245,9 @@
               "request": {
                 "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
                 "ciosContent": {
-                  "filterCriteriaMap": {},
+                  "filterCriteriaMap": {
+                    "isActive":true
+                  },
                   "requestedFields": [],
                   "pageNumber": 0,
                   "pageSize": 10,
@@ -3261,7 +3265,9 @@
           "request": {
             "apiUrl": "/apis/proxies/v8/cios/v1/search/content",
             "ciosContent": {
-              "filterCriteriaMap": {},
+              "filterCriteriaMap": {
+                "isActive":true
+              },
               "requestedFields": [],
               "pageNumber": 0,
               "pageSize": 10,
