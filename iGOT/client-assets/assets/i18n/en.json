@@ -224,6 +224,7 @@
         "getReadyForLearningAdventure": "Get ready for your next learning adventure",
         "clickHere": "Click here",
         "toEnrollNextCourse": " to enroll in your next course now!",
+        "toEnrollNextEvents": " to enroll in your next events now!",
         "moderatedHtml": "Moderated Courses, Moderated Programs and Moderated Assessments for you."
     },
     "cbpPlanFeed": {
@@ -1458,7 +1459,8 @@
         "providers": "Providers",
         "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
         "notMyUser2": "within 48 hours",
-        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization."
+        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization.",
+        "completedEvents": "You will find your completed events here."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
