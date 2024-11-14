@@ -37,7 +37,7 @@
         "update": "Update",
         "showAll": "Show all",
         "loadMore": "Load more...",
-        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "gyaanKarmayogi": "Amrit Gyan Kosh",
         "janKarmayogi": "Jan Karmayogi",
         "dueBy": "Due by",
         "viewAll": "View All"
@@ -123,7 +123,7 @@
         "curatedCollections": "Curated collections",
         "search": "Search",
         "allProviders": "All Providers",
-        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "gyaanKarmayogi": "Amrit Gyan Kosh",
         "frequentlyAskedQuestions": "Frequently asked questions",
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
@@ -139,7 +139,7 @@
         "minimizeDistractions": "Minimize distractions during study sessions.",
         "seekClarification": "Seek clarification and assistance when needed.",
         "allocateTime": "Allocate dedicated time for learning activities.",
-        "useGyaanKarmayogi": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+        "useGyaanKarmayogi": "Use the new section Amrit Gyan Kosh regularly, to go over case studies and other learning material.",
         "updateProfile": "Update your profile regularly if required.",
         "followSuggestions": "Follow suggestions at My iGOT."
     },
@@ -503,7 +503,12 @@
         "completedCourse": "You completed this course on",
         "provider": "Provider",
         "objectives": "Objectives",
-        "comments": "Comments"
+        "comments": "Comments",
+        "teachersNote": "Teacher's Notes",
+        "teachersNoteHeading": "Essential insights and guidance to enrich and standardize your teaching experience.",
+        "downaloadAllPdfs": "Download all PDFs",
+        "downloadPdf": "Download PDF",
+        "viewPDF": "View PDF"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -2127,13 +2132,13 @@
         "eventsDesc": "Add your events."
     },
     "gyaanKarmayogi": {
-        "title": "Gyaan Karmayogi",
+        "title": "Amrit Gyan Kosh",
         "description": "Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services.",
         "filterBy": "Filter by",
         "sectors": "Sectors",
         "allSector": "All Sector",
         "sector": "Sector",
-        "placeholder": "Search in Gyaan Karmayogi",
+        "placeholder": "Search in Amrit Gyan Kosh",
         "search": "Search",
         "subSector": "Sub-sector",
         "subSectors": "Sub-sectors",
@@ -2146,7 +2151,10 @@
         "share": "Share",
         "download": "Download",
         "applyNow": "Apply now",
-        "viewAll": "View All"
+        "viewAll": "View All",
+        "moreFilters": "More Filters",
+        "tabAll": "All",
+        "tabCBC": "By Capacity Building Commission"
     },
     "profileInfo": {
         "profileNotVerified": "Profile not verified",
