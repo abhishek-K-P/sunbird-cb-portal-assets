@@ -40,7 +40,8 @@
         "gyaanKarmayogi": "Amrit Gyan Kosh",
         "janKarmayogi": "Jan Karmayogi",
         "dueBy": "Due by",
-        "viewAll": "View All"
+        "viewAll": "View All",
+        "amritGyanKosh":"Amrit Gyan Kosh"
     },
     "msg": {
         "noEvent": "No Event",
@@ -1825,6 +1826,7 @@
         "removeFilters": "Try removing the filters or search using different keywords"
     },
     "searchfilters": {
+        "caseStudy": "Case Study",
         "filterSearch": "Filter search",
         "contentType": "Content Type",
         "program": "Program",
@@ -2133,7 +2135,7 @@
     },
     "gyaanKarmayogi": {
         "title": "Amrit Gyan Kosh",
-        "description": "Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services.",
+        "description": "An initiative by the Capacity Building Commission, offering a knowledge repository of India-focused case studies and resources to empower civil servants and support citizen-centric, accountable governance.",
         "filterBy": "Filter by",
         "sectors": "Sectors",
         "allSector": "All Sector",
@@ -2154,7 +2156,9 @@
         "viewAll": "View All",
         "moreFilters": "More Filters",
         "tabAll": "All",
-        "tabCBC": "By Capacity Building Commission"
+        "tabCBC": "By Capacity Building Commission",
+        "agkCaseStudies": "AGK Case Studies",
+        "otherResources": "Other Resources"
     },
     "profileInfo": {
         "profileNotVerified": "Profile not verified",
