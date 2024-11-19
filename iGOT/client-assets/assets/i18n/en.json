@@ -37,11 +37,11 @@
         "update": "Update",
         "showAll": "Show all",
         "loadMore": "Load more...",
-        "gyaanKarmayogi": "Amrit Gyan Kosh",
+        "gyaanKarmayogi": "Amrit Gyaan Kosh",
         "janKarmayogi": "Jan Karmayogi",
         "dueBy": "Due by",
         "viewAll": "View All",
-        "amritGyanKosh":"Amrit Gyan Kosh"
+        "amritGyaanKosh":"Amrit Gyaan Kosh"
     },
     "msg": {
         "noEvent": "No Event",
@@ -124,7 +124,7 @@
         "curatedCollections": "Curated collections",
         "search": "Search",
         "allProviders": "All Providers",
-        "gyaanKarmayogi": "Amrit Gyan Kosh",
+        "gyaanKarmayogi": "Amrit Gyaan Kosh",
         "frequentlyAskedQuestions": "Frequently asked questions",
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
@@ -140,7 +140,7 @@
         "minimizeDistractions": "Minimize distractions during study sessions.",
         "seekClarification": "Seek clarification and assistance when needed.",
         "allocateTime": "Allocate dedicated time for learning activities.",
-        "useGyaanKarmayogi": "Use the new section Amrit Gyan Kosh regularly, to go over case studies and other learning material.",
+        "useGyaanKarmayogi": "Use the new section Amrit Gyaan Kosh regularly, to go over case studies and other learning material.",
         "updateProfile": "Update your profile regularly if required.",
         "followSuggestions": "Follow suggestions at My iGOT."
     },
@@ -2134,13 +2134,13 @@
         "eventsDesc": "Add your events."
     },
     "gyaanKarmayogi": {
-        "title": "Amrit Gyan Kosh",
+        "title": "Amrit Gyaan Kosh",
         "description": "An initiative by the Capacity Building Commission, offering a knowledge repository of India-focused case studies and resources to empower civil servants and support citizen-centric, accountable governance.",
         "filterBy": "Filter by",
         "sectors": "Sectors",
         "allSector": "All Sector",
         "sector": "Sector",
-        "placeholder": "Search in Amrit Gyan Kosh",
+        "placeholder": "Search in Amrit Gyaan Kosh",
         "search": "Search",
         "subSector": "Sub-sector",
         "subSectors": "Sub-sectors",

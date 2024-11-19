@@ -131,7 +131,7 @@
           "cardSubType": "card-resource"
         },
         "viewMoreUrl": {
-          "path": "/app/amrit-gyan-kosh/view-all",
+          "path": "/app/amrit-gyaan-kosh/view-all",
           "viewMoreText": "View All",
           "queryParams": {
             "key": "recentlyAdded"
@@ -222,7 +222,7 @@
   "knowMoreInfo": {
     "iconName":"help_outline",
     "helpTextKey": "Interested in writing Case Studies with the commission?",
-    "btnName": "Fill The Form"
+    "btnName": "Click Here"
 
   }
 }
