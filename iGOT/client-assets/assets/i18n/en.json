@@ -2155,10 +2155,10 @@
         "applyNow": "Apply now",
         "viewAll": "View All",
         "moreFilters": "More Filters",
-        "tabAll": "All",
-        "tabCBC": "By Capacity Building Commission",
         "agkCaseStudies": "AGK Case Studies",
-        "otherResources": "Other Resources"
+        "otherResources": "Other Resources",
+        "agkContentInfo": "The cases in this section are developed and thoroughly vetted by the Capacity Building Commission to ensure quality and relevance.",
+        "otherContentInfo": "The resources in this section are developed by external institutions and have not been vetted by the Capacity Building Commission."
     },
     "profileInfo": {
         "profileNotVerified": "Profile not verified",
