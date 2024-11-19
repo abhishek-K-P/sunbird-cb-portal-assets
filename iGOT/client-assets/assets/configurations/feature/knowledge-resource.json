@@ -21,6 +21,8 @@
       "routerLink": "/app/knowledge-resource/saved"
     }
   ],
+  "agkContentInfo":"The cases in this section are developed and thoroughly vetted by the Capacity Building Commission to ensure quality and relevance.",
+  "otherContentInfo":"The resources in this section are developed by external institutions and have not been vetted by the Capacity Building Commission.",
   "banner": {
     "widgetType": "slider",
     "widgetSubType": "sliderBanners",
@@ -40,6 +42,71 @@
       }
     ]
   },
+  "sliderData": [
+    {
+      "active": true,
+      "navigationArrows":"hidden",
+      "banners": {
+        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg"
+      },
+      "redirectUrl": "/app/globalsearch",
+      "openInNewTab": false,
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    },
+    {
+      "active": true,
+      "navigationArrows":"hidden",
+      "banners": {
+        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg"
+      },
+      "redirectUrl": "/app/globalsearch",
+      "openInNewTab": false,
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    },
+    {
+      "active": true,
+      "navigationArrows":"hidden",
+      "banners": {
+        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
+        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg"
+      },
+      "redirectUrl": "https://ncrb.gov.in/uploads/SankalanPortal/Index.html",
+      "openInNewTab": true,
+      "queryParams": {
+        "tab": "Learn",
+        "q": "Salesforce",
+        "lang": "en",
+        "f": "{}"
+      },
+      "title": ""
+    }
+  ],
   "stripConfig": {
     "order": 1,
     "strips": [
@@ -64,7 +131,7 @@
           "cardSubType": "card-resource"
         },
         "viewMoreUrl": {
-          "path": "/app/gyaan-karmayogi/view-all",
+          "path": "/app/amrit-gyan-kosh/view-all",
           "viewMoreText": "View All",
           "queryParams": {
             "key": "recentlyAdded"
@@ -93,7 +160,8 @@
                   "application/pdf",
                   "video/mp4",
                   "text/x-url",
-                  "audio/mpeg"
+                  "audio/mpeg",
+                  "application/vnd.ekstep.content-collection"
                 ]
               },
               "query": "",
@@ -150,5 +218,11 @@
     "policies and acts",
     "know your ministry",
     "others"
-  ]
+  ],
+  "knowMoreInfo": {
+    "iconName":"help_outline",
+    "helpTextKey": "Interested in writing Case Studies with the commission?",
+    "btnName": "Fill The Form"
+
+  }
 }
