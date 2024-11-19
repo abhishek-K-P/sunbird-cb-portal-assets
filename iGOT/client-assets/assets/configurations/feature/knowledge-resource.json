@@ -68,36 +68,15 @@
       "active": true,
       "navigationArrows":"hidden",
       "banners": {
-        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg"
+        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg",
+        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg",
+        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg",
+        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg",
+        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg",
+        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner-2.svg"
       },
       "redirectUrl": "/app/globalsearch",
       "openInNewTab": false,
-      "queryParams": {
-        "tab": "Learn",
-        "q": "Salesforce",
-        "lang": "en",
-        "f": "{}"
-      },
-      "title": ""
-    },
-    {
-      "active": true,
-      "navigationArrows":"hidden",
-      "banners": {
-        "l": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "m": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "s": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xs": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg",
-        "xxl": "assets/instances/eagle/banners/hubs/knowledgeresource/amrit-gyaan-banner.svg"
-      },
-      "redirectUrl": "https://ncrb.gov.in/uploads/SankalanPortal/Index.html",
-      "openInNewTab": true,
       "queryParams": {
         "tab": "Learn",
         "q": "Salesforce",
