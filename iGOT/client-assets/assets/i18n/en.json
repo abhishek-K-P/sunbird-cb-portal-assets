@@ -74,6 +74,8 @@
         "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
+        "contents":"Contents",
+        "events":"Events",
         "myLearning": "My Learning",
         "inProgress": "In Progress",
         "completed": "Completed",
@@ -223,6 +225,7 @@
         "getReadyForLearningAdventure": "Get ready for your next learning adventure",
         "clickHere": "Click here",
         "toEnrollNextCourse": " to enroll in your next course now!",
+        "toEnrollNextEvents": " to enroll in your next events now!",
         "moderatedHtml": "Moderated Courses, Moderated Programs and Moderated Assessments for you."
     },
     "cbpPlanFeed": {
@@ -1357,6 +1360,8 @@
         "growSection": "Learn. Network. Take your career growth to the next level."
     },
     "home": {
+        "contents":"Contents",
+        "events":"Events",
         "learnHub": "Go to learn hub",
         "updateTitle": "Update your mobile number",
         "updateMobile": "Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1460,7 +1465,8 @@
         "providers": "Providers",
         "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
         "notMyUser2": "within 48 hours",
-        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization."
+        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization.",
+        "completedEvents": "You will find your completed events here."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1827,6 +1833,7 @@
     },
     "searchfilters": {
         "caseStudy": "Case Study",
+        "karmayogiSaptah": "Karmayogi Saptah",
         "filterSearch": "Filter search",
         "contentType": "Content Type",
         "program": "Program",

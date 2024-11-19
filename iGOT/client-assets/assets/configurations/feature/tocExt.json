@@ -111,6 +111,41 @@
         }
       }
     },
-    "commentsTab": true
-  }
-  
+    "commentsTab": true,
+    "infoMsg": {
+      "type": "data",
+      "iconsDisplay": false,
+      "cardClass": "slider-container",
+      "height": "auto",
+      "width": "",
+      "sliderData": [
+          {
+              "title": "Progress and certificates for Cornell courses are visible only after you complete the course and pass the assessment.",
+              "icon": "",
+              "data": "",
+              "colorData": ""
+          }
+      ],
+      "negativeDisplay": false,
+      "dot-default": "dot-grey",
+      "dot-active": "dot-active"
+    },
+    "infoMsgHi": {
+      "type": "data",
+      "iconsDisplay": false,
+      "cardClass": "slider-container",
+      "height": "auto",
+      "width": "",
+      "sliderData": [
+          {
+              "title": "कॉर्नेल पाठ्यक्रमों की प्रगति और प्रमाणपत्र आपके पाठ्यक्रम पूरा करने और मूल्यांकन में उत्तीर्ण होने के बाद ही दिखाई देते हैं।",
+              "icon": "",
+              "data": "",
+              "colorData": ""
+          }
+      ],
+      "negativeDisplay": false,
+      "dot-default": "dot-grey",
+      "dot-active": "dot-active"
+    }
+}
