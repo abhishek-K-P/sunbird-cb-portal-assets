@@ -7964,5 +7964,48 @@
       "Course": []
     },
     "type": "array"
+  },
+  "teacherResName": {
+    "defaultValue": {
+      "Learning Resource": [
+        {
+          "condition": {
+            "contentType": [
+              "Resource"
+            ],
+            "primaryCategory": [
+              "Learning Resource"
+            ]
+          },
+          "value": ""
+        }
+      ],
+      "Course": [
+        {
+          "condition": {
+            "contentType": [
+              "Course"
+            ],
+            "primaryCategory": [
+              "Course"
+            ]
+          },
+          "value": ""
+        }
+      ]
+    },
+    "disabledFor": {
+    },
+    "mandatoryFor": {
+    },
+    "notDisabledFor": {},
+    "notMandatoryFor": {
+    },
+    "notShowFor": {
+    },
+    "showFor": {
+      "Course":[]
+    },
+    "type": "string"
   }
 }
