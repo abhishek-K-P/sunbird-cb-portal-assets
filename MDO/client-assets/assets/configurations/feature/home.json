@@ -200,6 +200,23 @@
                 "mdo_admin",
                 "mdo_leader"
               ]
+            },
+            {
+              "name": "Manage Groups/Grades",
+              "key": "Manage",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/manage-groups-grade",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
             }
           ]
         },
