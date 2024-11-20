@@ -34,6 +34,23 @@
           ],
           "subMenu": [
             {
+              "name": "Onboarding",
+              "key": "onboarding",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/onboarding",
+              "requiredRoles": [
+                "admin",
+                "mdo_admin",
+                "mdo_leader"
+              ]
+            },
+            {
               "name": "All users",
               "key": "users",
               "fragment": false,
