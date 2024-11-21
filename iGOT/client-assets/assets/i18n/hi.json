@@ -41,7 +41,7 @@
     "janKarmayogi": "जन कर्मयोगी",
     "dueBy": "द्वारा देय",
     "viewAll": "सब देखें",
-    "amritGyaanKosh":"अमृत ​​ज्ञान कोष"
+    "amritGyaanKosh": "अमृत ​​ज्ञान कोष"
   },
   "msg": {
     "noEvent": "कोई ईवेंट नहीं",
@@ -74,7 +74,7 @@
     "seeAllPendingRequests": "सभी लंबित अनुरोध देखें"
   },
   "seeAllHome": {
-    "contents":"कंटेन्ट",
+    "contents": "कंटेन्ट",
     "events": "ईवेंट",
     "myLearning": "मेरा सीखना",
     "inProgress": "प्रगति में",
@@ -509,9 +509,9 @@
     "comments": "टिप्पणियाँ",
     "teachersNote": "शिक्षक के नोट्स",
     "teachersNoteHeading": "आपके शिक्षण अनुभव को समृद्ध और मानकीकृत करने के लिए आवश्यक अंतर्दृष्टि और मार्गदर्शन।",
-    "downaloadAllPdfs": "सभी पीडीएफ़ डाउनलोड करें",
-    "downloadPdf": "पीडीएफ डाउनलोड करें",
-    "viewPDF": "पीडीएफ देखें"
+    "downaloadAllPdfs": "सभी डाउनलोड करें",
+    "downloadPdf": "डाउनलोड करें",
+    "viewPDF": "देखें"
   },
   "ratingsummary": {
     "ratings": "रेट",
@@ -1354,8 +1354,7 @@
     "growSection": "सीखें। नेटवर्क करें । अपने करियर के विकास को अगले स्तर पर ले जाएं।"
   },
   "home": {
-
-    "contents":"कंटेन्ट",
+    "contents": "कंटेन्ट",
     "events": "ईवेंट",
     "learnHub": "लर्न हब पर जाएँ",
     "updateTitle": "अपना मोबाइल नंबर अपडेट करें।",
@@ -1435,8 +1434,8 @@
     "recentlyAdded": "नए जोड़े गए",
     "youWillFindYourCompletedCourses/programHere": "आपको यहां अपने पूरे किए गए कोर्स/कार्यक्रम मिलेंगे।",
     "today'sEvents": "आज के इवेंट्स",
-    "keySpeakersEvents": "मुख्य वक्ता कार्यक्रम", 
-    "liveEvents":"लाइव इवेंट",
+    "keySpeakersEvents": "मुख्य वक्ता कार्यक्रम",
+    "liveEvents": "लाइव इवेंट",
     "noDataCourse": "कोई पाठ्यक्रम उपलब्ध नहीं.",
     "youDon’tHaveAnyNewCourseInProgress.": "आपके पास कोई सामग्री प्रगति पर नहीं है।",
     "youWillSeeAllTheContentForWhichTheDueDateIsWithin30Days.": "आपको वह सभी कंटेन्ट दिखेंगे जिसकी नियत तारीख 30 दिनों के भीतर है।",
@@ -2231,8 +2230,8 @@
     "moreFilters": "अधिक फ़िल्टर",
     "agkCaseStudies": "एजीके केस स्टडीज",
     "otherResources": "अन्य संसाधन",
-    "agkContentInfo":"गुणवत्ता और प्रासंगिकता सुनिश्चित करने के लिए इस अनुभाग के मामलों को क्षमता निर्माण आयोग द्वारा विकसित और पूरी तरह से जांचा जाता है।",
-    "otherContentInfo":"इस अनुभाग में संसाधन बाहरी संस्थानों द्वारा विकसित किए गए हैं और क्षमता निर्माण आयोग द्वारा इसकी जांच नहीं की गई है।"
+    "agkContentInfo": "गुणवत्ता और प्रासंगिकता सुनिश्चित करने के लिए इस अनुभाग के मामलों को क्षमता निर्माण आयोग द्वारा विकसित और पूरी तरह से जांचा जाता है।",
+    "otherContentInfo": "इस अनुभाग में संसाधन बाहरी संस्थानों द्वारा विकसित किए गए हैं और क्षमता निर्माण आयोग द्वारा इसकी जांच नहीं की गई है।"
   },
   "profileInfo": {
     "profileNotVerified": "प्रोफ़ाइल सत्यापित नहीं है",

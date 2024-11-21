@@ -41,7 +41,7 @@
         "janKarmayogi": "Jan Karmayogi",
         "dueBy": "Due by",
         "viewAll": "View All",
-        "amritGyaanKosh":"Amrit Gyaan Kosh"
+        "amritGyaanKosh": "Amrit Gyaan Kosh"
     },
     "msg": {
         "noEvent": "No Event",
@@ -74,8 +74,8 @@
         "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
-        "contents":"Contents",
-        "events":"Events",
+        "contents": "Contents",
+        "events": "Events",
         "myLearning": "My Learning",
         "inProgress": "In Progress",
         "completed": "Completed",
@@ -510,9 +510,9 @@
         "comments": "Comments",
         "teachersNote": "Teacher's Notes",
         "teachersNoteHeading": "Essential insights and guidance to enrich and standardize your teaching experience.",
-        "downaloadAllPdfs": "Download all PDFs",
-        "downloadPdf": "Download PDF",
-        "viewPDF": "View PDF"
+        "downaloadAllPdfs": "Download All",
+        "downloadPdf": "Download",
+        "viewPDF": "View"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -1360,8 +1360,8 @@
         "growSection": "Learn. Network. Take your career growth to the next level."
     },
     "home": {
-        "contents":"Contents",
-        "events":"Events",
+        "contents": "Contents",
+        "events": "Events",
         "learnHub": "Go to learn hub",
         "updateTitle": "Update your mobile number",
         "updateMobile": "Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
