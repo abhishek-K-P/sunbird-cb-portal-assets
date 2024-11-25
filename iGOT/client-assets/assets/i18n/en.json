@@ -1769,7 +1769,19 @@
         "signup": "SIGN UP",
         "haveAccount": "Already have an account?",
         "signin": "Sign in here",
-        "privacyPolicy": "Privacy Policy"
+        "privacyPolicy": "Privacy Policy",
+        "designation": "Designation",
+        "selectDesignation": "Select Designation",
+        "designationMandatory": "Designation is mandatory",
+        "requestForHelp2": "Request",
+        "receiveOnWhatsapp": "Receive messages on WhatsApp",
+        "groupGrade": "Group/Grade",
+        "selectgroupGrade": "Select Group/Grade",
+        "groupGradeMandatory": "Group/Grade is mandatory",
+        "publicsignupCrpTermsCond": "I confirm that the above provided information is accurate & I agree to the iGOT karmayogi's",
+        "btnVerify": "Verify",
+        "registerFor": "Register for"
+
     },
     "publicrequest": {
         "requestTo": "Request to add",

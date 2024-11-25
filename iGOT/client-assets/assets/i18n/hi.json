@@ -1749,7 +1749,17 @@
     "terms": "सेवा की शर्तें",
     "signup": "साइन अप करें",
     "haveAccount": "पहले से ही एक अकाउंट है?",
-    "signin": "यहाँ साइन इन करें"
+    "signin": "यहाँ साइन इन करें",
+    "designation": "पदनाम",
+    "selectDesignation": "पदनाम चुनें",
+    "designationMandatory": "पदनाम अनिवार्य है",
+    "requestForHelp2": "अनुरोध",
+    "receiveOnWhatsapp": "व्हाट्सएप पर संदेश प्राप्त करें",
+    "selectgroupGrade": "समूह/श्रेणी चुनें",
+    "groupGradeMandatory": "समूह/श्रेणी अनिवार्य है",
+    "publicsignupCrpTermsCond": "मैं पुष्टि करता हूं कि ऊपर दी गई जानकारी सही है और मैं iGOT कर्मयोगी की शर्तों से सहमत हूं।",
+    "btnVerify": "सत्यापित करें",
+    "registerFor": "पंजीकरण करें"
   },
   "publicrequest": {
     "requestTo": "जोड़ने का अनुरोध",
