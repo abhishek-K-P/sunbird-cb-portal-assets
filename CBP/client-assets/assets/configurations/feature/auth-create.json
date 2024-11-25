@@ -2,7 +2,7 @@
   {
     "id": "learningResource",
     "name": "Resource",
-    "description": "Create a standalone resources here - these will be displayed in Amrit Gyaan Kosh for learning impact.",
+    "description": "Create standalone resources.",
     "icon": "playlist_add_check",
     "contentType": "Resource",
     "primaryCategory": "Learning Resource",
