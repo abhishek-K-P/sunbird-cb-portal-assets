@@ -37,10 +37,11 @@
         "update": "Update",
         "showAll": "Show all",
         "loadMore": "Load more...",
-        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "gyaanKarmayogi": "Amrit Gyaan Kosh",
         "janKarmayogi": "Jan Karmayogi",
         "dueBy": "Due by",
-        "viewAll": "View All"
+        "viewAll": "View All",
+        "amritGyaanKosh": "Amrit Gyaan Kosh"
     },
     "msg": {
         "noEvent": "No Event",
@@ -73,8 +74,8 @@
         "seeAllPendingRequests": "See all pending requests"
     },
     "seeAllHome": {
-        "contents":"Contents",
-        "events":"Events",
+        "contents": "Contents",
+        "events": "Events",
         "myLearning": "My Learning",
         "inProgress": "In Progress",
         "completed": "Completed",
@@ -125,7 +126,7 @@
         "curatedCollections": "Curated collections",
         "search": "Search",
         "allProviders": "All Providers",
-        "gyaanKarmayogi": "Gyaan Karmayogi",
+        "gyaanKarmayogi": "Amrit Gyaan Kosh",
         "frequentlyAskedQuestions": "Frequently asked questions",
         "contactUs": "Contact Us",
         "tipForLearners": "Tips For Learners"
@@ -141,7 +142,7 @@
         "minimizeDistractions": "Minimize distractions during study sessions.",
         "seekClarification": "Seek clarification and assistance when needed.",
         "allocateTime": "Allocate dedicated time for learning activities.",
-        "useGyaanKarmayogi": "Use the new section Gyaan Karmayogi regularly, to go over case studies and other learning material.",
+        "useGyaanKarmayogi": "Use the new section Amrit Gyaan Kosh regularly, to go over case studies and other learning material.",
         "updateProfile": "Update your profile regularly if required.",
         "followSuggestions": "Follow suggestions at My iGOT."
     },
@@ -224,6 +225,7 @@
         "getReadyForLearningAdventure": "Get ready for your next learning adventure",
         "clickHere": "Click here",
         "toEnrollNextCourse": " to enroll in your next course now!",
+        "toEnrollNextEvents": " to enroll in your next events now!",
         "moderatedHtml": "Moderated Courses, Moderated Programs and Moderated Assessments for you."
     },
     "cbpPlanFeed": {
@@ -505,7 +507,12 @@
         "completedCourse": "You completed this course on",
         "provider": "Provider",
         "objectives": "Objectives",
-        "comments": "Comments"
+        "comments": "Comments",
+        "teachersNote": "Teacher's Notes",
+        "teachersNoteHeading": "Essential insights and guidance to enrich and standardize your teaching experience.",
+        "downaloadAllPdfs": "Download All",
+        "downloadPdf": "Download",
+        "viewPDF": "View"
     },
     "ratingsummary": {
         "ratings": "ratings",
@@ -1353,8 +1360,8 @@
         "growSection": "Learn. Network. Take your career growth to the next level."
     },
     "home": {
-        "contents":"Contents",
-        "events":"Events",
+        "contents": "Contents",
+        "events": "Events",
         "learnHub": "Go to learn hub",
         "updateTitle": "Update your mobile number",
         "updateMobile": "Update your mobile number. This will enable you to login with your mobile number easily and receive important alerts on your mobile.",
@@ -1458,7 +1465,8 @@
         "providers": "Providers",
         "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
         "notMyUser2": "within 48 hours",
-        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization."
+        "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization.",
+        "completedEvents": "You will find your completed events here."
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
@@ -1767,7 +1775,19 @@
         "signup": "SIGN UP",
         "haveAccount": "Already have an account?",
         "signin": "Sign in here",
-        "privacyPolicy": "Privacy Policy"
+        "privacyPolicy": "Privacy Policy",
+        "designation": "Designation",
+        "selectDesignation": "Select Designation",
+        "designationMandatory": "Designation is mandatory",
+        "requestForHelp2": "Request",
+        "receiveOnWhatsapp": "Receive messages on WhatsApp",
+        "groupGrade": "Group/Grade",
+        "selectgroupGrade": "Select Group/Grade",
+        "groupGradeMandatory": "Group/Grade is mandatory",
+        "publicsignupCrpTermsCond": "I confirm that the above provided information is accurate & I agree to the iGOT karmayogi's",
+        "btnVerify": "Verify",
+        "registerFor": "Register for"
+
     },
     "publicrequest": {
         "requestTo": "Request to add",
@@ -1824,6 +1844,7 @@
         "removeFilters": "Try removing the filters or search using different keywords"
     },
     "searchfilters": {
+        "caseStudy": "Case Study",
         "karmayogiSaptah": "Karmayogi Saptah",
         "filterSearch": "Filter search",
         "contentType": "Content Type",
@@ -2132,13 +2153,13 @@
         "eventsDesc": "Add your events."
     },
     "gyaanKarmayogi": {
-        "title": "Gyaan Karmayogi",
-        "description": "Knowledge repository of policy documents, case studies, best practices, and other learning resources from various stakeholders in the field of governance and public services.",
+        "title": "Amrit Gyaan Kosh",
+        "description": "An initiative by the Capacity Building Commission, offering a knowledge repository of India-focused case studies and resources to empower civil servants and support citizen-centric, accountable governance.",
         "filterBy": "Filter by",
         "sectors": "Sectors",
         "allSector": "All Sector",
         "sector": "Sector",
-        "placeholder": "Search in Gyaan Karmayogi",
+        "placeholder": "Search in Amrit Gyaan Kosh",
         "search": "Search",
         "subSector": "Sub-sector",
         "subSectors": "Sub-sectors",
@@ -2151,7 +2172,12 @@
         "share": "Share",
         "download": "Download",
         "applyNow": "Apply now",
-        "viewAll": "View All"
+        "viewAll": "View All",
+        "moreFilters": "More Filters",
+        "agkCaseStudies": "AGK Case Studies",
+        "otherResources": "Other Resources",
+        "agkContentInfo": "The cases in this section are developed and thoroughly vetted by the Capacity Building Commission to ensure quality and relevance.",
+        "otherContentInfo": "The resources in this section are developed by external institutions and have not been vetted by the Capacity Building Commission."
     },
     "profileInfo": {
         "profileNotVerified": "Profile not verified",
