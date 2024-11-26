@@ -450,7 +450,7 @@
             },
             "comments": {
               "show": true,
-              "showCount": true,
+              "showCount": false,
               "icon": "comment"
             }
           },
