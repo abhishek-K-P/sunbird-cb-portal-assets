@@ -1,4 +1,4 @@
-"data": {
+{
     "tabs": [
         {
             "name": "allKnowledgeResources",
@@ -54,7 +54,6 @@
                 "xs": "https://portal.uat.karmayogibharat.net//content-store/orgStore/0134199050418831360/1732538379241_AKG_Banner_Mobile.png",
                 "xxl": "https://portal.uat.karmayogibharat.net//content-store/orgStore/0134199050418831360/1732537983550_Amrit-gyaan-kosh-1200x300.png"
             },
-            // "redirectUrl": "/app/globalsearch",
             "openInNewTab": false,
             "queryParams": {
                 "tab": "Learn",
@@ -75,7 +74,6 @@
                 "xs": "https://portal.uat.karmayogibharat.net//content-store/orgStore/0134199050418831360/1732538379241_AKG_Banner_Mobile.png",
                 "xxl": "https://portal.uat.karmayogibharat.net//content-store/orgStore/0134199050418831360/1732537983550_Amrit-gyaan-kosh-1200x300.png"
             },
-            // "redirectUrl": "/app/globalsearch",
             "openInNewTab": false,
             "queryParams": {
                 "tab": "Learn",
