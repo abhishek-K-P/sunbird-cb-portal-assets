@@ -256,7 +256,8 @@
         "comments": {
           "show": true,
           "showCount": true,
-          "icon": "comment"
+          "icon": "comment",
+          "iconDisplay": false
         },
         "avatarPhoto": {
           "show": true,
@@ -325,7 +326,8 @@
           "comments": {
             "show": true,
             "showCount": false,
-            "icon": "comment"
+            "icon": "chat_bubble",
+            "iconDisplay": true
           },
           "repliesSection": {
             "show": false
