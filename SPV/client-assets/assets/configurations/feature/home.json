@@ -176,6 +176,19 @@
               "enabled": true,
               "routerLink": "/app/home/sectors",
               "requiredRoles": ["SPV_ADMIN", "spv_admin"]
+            },
+            {
+              "name": "Marketplace Providers",
+              "key": "marketplace-providers",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/marketplace-providers",
+              "requiredRoles": ["SPV_ADMIN", "spv_admin"]
             }
           ]
         },
@@ -243,19 +256,6 @@
           "requiredRoles": ["SPV_ADMIN", "STATE_ADMIN", "spv_admin", "state_admin"]
         },
         {
-          "name": "Organisations",
-          "key": "sign-up-organisations",
-          "fragment": false,
-          "render": true,
-          "badges": {
-            "enabled": false,
-            "uri": ""
-          },
-          "enabled": true,
-          "routerLink": "/app/home/requests/organisation",
-          "requiredRoles": ["SPV_ADMIN", "STATE_ADMIN", "spv_admin", "state_admin"]
-        },
-        {
           "name": "Moderation",
           "key": "moderation",
           "fragment": false,
@@ -266,20 +266,6 @@
           },
           "enabled": false,
           "routerLink": "/app/home/moderation",
-          "requiredRoles": ["SPV_ADMIN", "spv_admin"]
-        },
-
-        {
-          "name": "Marketplace Providers",
-          "key": "marketplace-providers",
-          "fragment": false,
-          "render": true,
-          "badges": {
-            "enabled": false,
-            "uri": ""
-          },
-          "enabled": true,
-          "routerLink": "/app/home/marketplace-providers",
           "requiredRoles": ["SPV_ADMIN", "spv_admin"]
         }
       ]
