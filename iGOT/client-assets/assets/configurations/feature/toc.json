@@ -391,7 +391,8 @@
         "comments": {
           "show": true,
           "showCount": true,
-          "icon": "comment"
+          "icon": "comment",
+          "iconDisplay": false
         }
       },
       "repliesSection": {
@@ -451,7 +452,8 @@
             "comments": {
               "show": true,
               "showCount": false,
-              "icon": "comment"
+              "icon": "chat_bubble",
+              "iconDisplay": true
             }
           },
           "repliesSection": {
