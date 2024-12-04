@@ -954,7 +954,8 @@
         "live": "Live",
         "karmayogiSaptah": "Karmayogi Saptah",
         "moreKarmaPoints": "more KarmaPoints",
-        "completedEvent": "You completed this event on"
+        "completedEvent": "You completed this event on",
+        "search": "Search events..."
     },
     "eventDetailsRightCard": {
         "viewRecording": "View recording",
@@ -2205,7 +2206,7 @@
         "officePinCode": "Office Pin Code",
         "eHRMSId": "eHRMS ID/External System ID",
         "dor": "Date of Retirement",
-        "saveChanges": "Save Changes",
+        "saveChanges": "Save & Next",
         "tags": "Tags",
         "tagsNotFound": "No tags found!",
         "withdrawWarnMsg": "Are you sure you want to withdraw your request?",
