@@ -947,7 +947,8 @@
     "webinar": "વેબિનાર",
     "karmayogiTalks": "કર્મયોગી વાટાઘાટો",
     "live": "જીવંત",
-    "karmayogiSaptah": "કર્મયોગી સપ્તાહ"
+    "karmayogiSaptah": "કર્મયોગી સપ્તાહ",
+    "search": "ઘટનાઓ શોધો..."
   },
   "eventDetailsRightCard": {
     "viewRecording": "રેકોર્ડિંગ જુઓ",
@@ -2158,7 +2159,7 @@
     "officePinCode": "ઓફિસ પિન કોડ",
     "eHRMSId": "eHRMS ID/બાહ્ય સિસ્ટમ ID",
     "dor": "નિવૃત્તિની તારીખ",
-    "saveChanges": "ફેરફારો સાચવો",
+    "saveChanges": "સાચવો & આગળ",
     "tags": "ટૅગ્સ",
     "tagsNotFound": "કોઈ ટૅગ્સ મળ્યા નથી!",
     "withdrawWarnMsg": "શું તમે ખાતરીપૂર્વક તમારી વિનંતી પાછી ખેંચવા માંગો છો?",
