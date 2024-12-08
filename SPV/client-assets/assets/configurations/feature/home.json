@@ -50,7 +50,7 @@
           "requiredRoles": ["SPV_ADMIN", "STATE_ADMIN", "spv_admin", "state_admin"],
           "subMenu": [
             {
-              "name": "Users",
+              "name": "All SPV Users",
               "key": "users",
               "fragment": false,
               "render": true,
