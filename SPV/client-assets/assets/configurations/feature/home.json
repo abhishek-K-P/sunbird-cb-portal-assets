@@ -228,7 +228,7 @@
           "requiredRoles": ["SPV_ADMIN", "STATE_ADMIN", "spv_admin", "state_admin"],
           "subMenu": [
             {
-              "name": "Survey report",
+              "name": "All Surveys",
               "key": "Surveys",
               "fragment": false,
               "render": true,
@@ -238,6 +238,19 @@
               },
               "enabled": true,
               "routerLink": "/app/home/survey",
+              "requiredRoles": ["SPV_ADMIN", "spv_admin"]
+            },
+            {
+              "name": "Survey report",
+              "key": "Surveys",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/reports/survey",
               "requiredRoles": ["SPV_ADMIN", "spv_admin"]
             }
           ]
