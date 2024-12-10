@@ -903,6 +903,8 @@
     "network": {
         "networkHome": "Network home",
         "searchUser": "Search User",
+        "searchBynameDept": "Search by name or department",
+        "searchUrConnections": "Search connections...",
         "yourConnections": "Your connections",
         "noConnectionRequests": "No connection requests!",
         "connectionRequests": "Connection Requests",
@@ -1788,7 +1790,6 @@
         "publicsignupCrpTermsCond": "I confirm that the above provided information is accurate & I agree to the iGOT karmayogi's",
         "btnVerify": "Verify",
         "registerFor": "Register for"
-
     },
     "publicrequest": {
         "requestTo": "Request to add",

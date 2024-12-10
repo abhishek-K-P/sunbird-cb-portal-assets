@@ -903,7 +903,9 @@
   "network": {
     "networkHome": "नेटवर्क होम",
     "searchUser": "उपयोगकर्ता खोजें",
+    "searchBynameDept": "नाम या विभाग के आधार पर खोजें",
     "yourConnections": "आपके कनेक्शन",
+    "searchUrConnections": "कनेक्शन खोजें...",
     "noConnectionRequests": "कोई कनेक्शन अनुरोध नहीं",
     "connectionRequests": "कनेक्शन अनुरोध",
     "cRequests": "कनेक्शन अनुरोध",
