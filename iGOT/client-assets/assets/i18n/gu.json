@@ -901,7 +901,9 @@
   "network": {
     "networkHome": "નેટવર્ક ઘર",
     "searchUser": "વપરાશકર્તાને શોધો",
+    "searchBynameDept": "નામ અથવા વિભાગ દ્વારા શોધો",
     "yourConnections": "તમારા જોડાણો",
+    "searchUrConnections": "કનેક્શન્સ શોધો...",
     "noConnectionRequests": "કોઈ જોડાણ વિનંતીઓ નથી!",
     "connectionRequests": "જોડાણ વિનંતીઓ",
     "cRequests": "જોડાણ વિનંતીઓ",
