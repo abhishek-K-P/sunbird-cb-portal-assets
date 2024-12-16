@@ -27,19 +27,6 @@
           "defaultExpanded": true, 
           "subMenu": [
             {
-              "name": "All users",
-              "key": "users",
-              "fragment": false,
-              "render": true,
-              "badges": {
-                "enabled": false,
-                "uri": ""
-              },
-              "enabled": true,
-              "routerLink": "/app/home/users",
-              "requiredRoles": ["admin", "mdo_admin", "mdo_leader"]
-            },
-            {
               "name": "Onboarding",
               "key": "onboarding",
               "fragment": false,
@@ -50,6 +37,19 @@
               },
               "enabled": true,
               "routerLink": "/app/home/onboarding",
+              "requiredRoles": ["admin", "mdo_admin", "mdo_leader"]
+            },
+            {
+              "name": "All users",
+              "key": "users",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/app/home/users",
               "requiredRoles": ["admin", "mdo_admin", "mdo_leader"]
             },
 
