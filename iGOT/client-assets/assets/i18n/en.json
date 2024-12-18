@@ -2228,6 +2228,7 @@
         "submitRequest": "Submit request",
         "organization": "Organization",
         "chooseOrganization": "Choose an Organization",
+        "designationHint": "Not able to find your designation? Please write us at <span class='note-email'>mission.karmayogi@gov.in</span> with the organization and designation name.",
         "transferHeader": "Select all the fields to make transfer request.",
         "transferWarnMsg": "If you make a transfer request, your profile will need verification again.",
         "otpHeaderText": "Enter the OTP sent to your",
@@ -2312,6 +2313,9 @@
         "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization.",
         "name": "Name",
         "organisation": "Organisation"
+    },
+    "updteDesignation": {
+        "select": "Select"
     },
     "mobileApp": {}
 }
