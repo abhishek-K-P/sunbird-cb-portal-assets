@@ -531,12 +531,13 @@
             "uri": ""
           },
           "enabled": true,
-          "routerLink": "/author/cbp/me/old",
+          "routerLink": "/app/home",
           "queryParams": "published",
           "requiredRoles": [
             "content_reviewer",
             "content_creator",
             "spv_publisher",
+            "content_publisher",
             "editor",
             "admin"
           ]
@@ -576,6 +577,40 @@
             "spv_publisher",
             "editor",
             "admin"
+          ]
+        },
+        
+            {
+              "name": "Marketplace Content",
+              "key": "cbp",
+              "iconName":"school",
+              "fragment": false,
+              "render": true,
+              "badges": {
+                "enabled": false,
+                "uri": ""
+              },
+              "enabled": true,
+              "routerLink": "/author/cbp/market-place-content",
+              "queryParams": "published",
+              "requiredRoles": [
+                "spv_publisher"
+              ]
+            },
+        {
+          "name": "Publish Moderated Content",
+          "key": "moderatedCourse",
+          "iconName":"school",
+          "fragment": false,
+          "render": true,
+          "badges": {
+            "enabled": false,
+            "uri": ""
+          },
+          "enabled": true,
+          "routerLink": "/author/cbp/me",
+          "requiredRoles": [
+            "content_publisher"
           ]
         },
             {
@@ -759,7 +794,7 @@
                 "enabled": false,
                 "uri": ""
               },
-              "enabled": true,
+              "enabled": false,
               "routerLink": "/author/cbp/how-to",
               "requiredRoles": [
                 "cbp_admin",
