@@ -1469,7 +1469,8 @@
         "notMyUser1": "You are no longer recognized as a user by your current organization, and access to the platform will end ",
         "notMyUser2": "within 48 hours",
         "notMyUser3": "If you believe this is incorrect, contact your MDO or make a \"Transfer Request\" to select your proper organization.",
-        "completedEvents": "You will find your completed events here."
+        "completedEvents": "You will find your completed events here.",
+        "designationBasedRecommendation": "Designation Based Recommendation"
     },
     "homeotherportals": {
         "otherPortals": "Other Portals You Have Access To",
