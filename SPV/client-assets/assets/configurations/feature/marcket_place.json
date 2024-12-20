@@ -23,7 +23,7 @@
                 "Completion Date": "completedon"    
             } 
         }],
-    "trasformCertificateUrl": "",
+    "certificateTemplateUrl": "",
     "transformContentViaApi": [
         {
             "spec": {
