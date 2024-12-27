@@ -1784,9 +1784,9 @@
         "designationMandatory": "Designation is mandatory",
         "requestForHelp2": "Request",
         "receiveOnWhatsapp": "Receive messages on WhatsApp",
-        "groupGrade": "Group/Grade",
-        "selectgroupGrade": "Select Group/Grade",
-        "groupGradeMandatory": "Group/Grade is mandatory",
+        "groupGrade": "Group", 
+        "selectgroupGrade": "Select your group",
+        "groupGradeMandatory": "Group is mandatory",
         "publicsignupCrpTermsCond": "I confirm that the above provided information is accurate & I agree to the iGOT karmayogi's",
         "btnVerify": "Verify",
         "registerFor": "Register for"
