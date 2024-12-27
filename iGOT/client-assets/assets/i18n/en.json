@@ -2304,6 +2304,7 @@
         "emailApprovedPopupMsg": "Only approved government email domains are allowed for email ID changes.",
         "emailApprovedPopupSubmsg": "Please reach out to the MDO Admin, if you are not able to change the email ID.",
         "isCadre": "Are you a Cadre Employee?",
+        "fromGovOrganization": "Are you from any organized service of the government?",
         "typeOfCivilService": "Type of Civil Service",
         "serviceType": "Service",
         "cadre": "Cadre",
@@ -2312,7 +2313,8 @@
         "cadreControllingAuthority": "Cadre Controlling Authority",
         "notMyUseAccessRevoke": "Your access has been revoked because your organization no longer identifies you as a user. To regain access, please submit a \"Transfer Request\" and choose the correct organization.",
         "name": "Name",
-        "organisation": "Organisation"
+        "organisation": "Organisation",
+        "presentOrganisation": "Present Ministry/Department/State/UT"
     },
     "updteDesignation": {
         "select": "Select"
