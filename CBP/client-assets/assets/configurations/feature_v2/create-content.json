@@ -3,7 +3,7 @@
     "id": "course",
     "isCollection": true,
     "name": "Course",
-    "description": "Create Course and Moderated course with a collection of modules and resources.",
+    "description": "Start designing your course by adding modules, resources, and assessment to create an engaging learning experience.",
     "icon": "course",
     "contentType": "Course",
     "courseCategory": "Course",
