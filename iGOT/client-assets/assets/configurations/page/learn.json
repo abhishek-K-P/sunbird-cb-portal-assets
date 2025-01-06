@@ -96,7 +96,7 @@
                       "cardSubType": "card-portrait"
                     },
                     "viewMoreUrl": {
-                      "path": "/app/seeAll",
+                      "path": "/app/seeAll/new",
                       "viewMoreText": "showAll",
                       "queryParams": {
                         "key": "continueLearning"
