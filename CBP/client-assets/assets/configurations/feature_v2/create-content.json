@@ -20,7 +20,8 @@
     "toolTipinfo": "On selection of 'All users', the created course will be tagged as 'Course' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created course will be tagged as 'Moderated course' and will be accessible to the selected MDO's users or verified users.",
     "accessSettingSubtitle": "Select the organisation(s) who will have access to the course.",
     "moderatedTitle": "Moderated course access",
-    "moderatedSubtitle": "Select the organisation(s) who will have access to the course."
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the course.",
+    "selectorDescription": "Create Course and Moderated course with a collection of modules and resources."
   },
   {
     "id": "program",
@@ -51,7 +52,9 @@
     "toolTipinfo": "On selection of 'All users', the created program will be tagged as 'Curated Program' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created program will be tagged as 'Moderated program' and will be accessible to the selected MDO's users or verified users.On selection of 'Custom users', the created program will be tagged as 'Invite Only Program' and will be accessible to the invited users only.",
     "accessSettingSubtitle": "Select the user type who will have access to the created program.",
     "moderatedTitle": "Moderated program access",
-    "moderatedSubtitle": "Select the organisation(s) who will have access to the created program."
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the created program.",
+    "selectorDescription": "Create Curated, Moderated, Invite only and Blended Program with curation of open courses (Means which is accessible to all). Note: Only in Moderated Program, you can add Moderated Courses as well."
+
   },
   {
     "id": "assessment",
@@ -71,7 +74,9 @@
     "toolTipinfo": "On selection of 'All users', the created assessment will be tagged as 'Standalone assessment' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created assessment will be tagged as 'Moderated assessment' and will be accessible to the selected MDO's users or verified users.On selection of 'Custom users', the created assessment will be tagged as 'Invite Only Assessment' and will be accessible to the invited users only.",
     "accessSettingSubtitle": "Select the user type who will have access to the created assessment.",
     "moderatedTitle": "Moderated assessment access",
-    "moderatedSubtitle": "Select the organisation(s) who will have access to the created assessment."
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the created assessment.",
+    "selectorDescription": "Create Standalone, Moderated Assessments and Invite Only Assessments with question and option weightage functionality."
+
   },
   {
     "id": "learningResource",
@@ -86,7 +91,8 @@
     ],
     "enabled": true,
     "avalible": false,
-    "possion": 4
+    "possion": 4,
+    "selectorDescription": "Create a standalone resources here - these will be displayed in Amrit Gyaan Kosh for learning impact."
   },
 
   {
@@ -112,6 +118,7 @@
     "toolTipinfo": "On selection of 'All users', the created case study will be tagged as 'Case Study' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created course will be tagged as 'Moderated course' and will be accessible to the selected MDO's users or verified users.",
     "accessSettingSubtitle": "Select the user type who will have access to the created case study.",
     "moderatedTitle": "Moderated case study access",
-    "moderatedSubtitle": "Select the organisation(s) who will have access to the case study."
+    "moderatedSubtitle": "Select the organisation(s) who will have access to the case study.",
+    "selectorDescription": "Create Case Study with a collection of modules and resources."
   }
 ]
