@@ -54,13 +54,12 @@
     "moderatedTitle": "Moderated program access",
     "moderatedSubtitle": "Select the organisation(s) who will have access to the created program.",
     "selectorDescription": "Create Curated, Moderated, Invite only and Blended Program with curation of open courses (Means which is accessible to all). Note: Only in Moderated Program, you can add Moderated Courses as well."
-
   },
   {
     "id": "assessment",
     "isCollection": true,
     "name": "Assessment",
-    "description": "Create Standalone, Moderated Assessments and Invite Only Assessments with question and option weightage functionality.",
+    "description": "Start designing your assessment by adding relevant questions. Choose the appropriate assessment type: Basic or Advanced",
     "icon": "assessment",
     "contentType": "Collection",
     "enabled": true,
@@ -72,11 +71,10 @@
     "primaryCategory": "Standalone Assessment",
     "possion": 3,
     "toolTipinfo": "On selection of 'All users', the created assessment will be tagged as 'Standalone assessment' and will be accessible to all learners of iGOT. On selection of 'MDO specific', the created assessment will be tagged as 'Moderated assessment' and will be accessible to the selected MDO's users or verified users.On selection of 'Custom users', the created assessment will be tagged as 'Invite Only Assessment' and will be accessible to the invited users only.",
-    "accessSettingSubtitle": "Select the user type who will have access to the created assessment.",
+    "accessSettingSubtitle": "Select the organisation(s) who will have access to the assessment.",
     "moderatedTitle": "Moderated assessment access",
     "moderatedSubtitle": "Select the organisation(s) who will have access to the created assessment.",
     "selectorDescription": "Create Standalone, Moderated Assessments and Invite Only Assessments with question and option weightage functionality."
-
   },
   {
     "id": "learningResource",
@@ -94,7 +92,6 @@
     "possion": 4,
     "selectorDescription": "Create a standalone resources here - these will be displayed in Amrit Gyaan Kosh for learning impact."
   },
-
   {
     "id": "caseStudy",
     "isCollection": true,
