@@ -2,16 +2,27 @@
     {
         "name": "All users",
         "value": "allUsers",
-        "enabledFor": ["Course","Program","Standalone Assessment"]
+        "enabledFor": [
+            "Course",
+            "Program",
+            "Standalone Assessment"
+        ]
     },
     {
         "name": "MDO Specific",
         "value": "mdoSpecific",
-        "enabledFor": ["Course","Program","Standalone Assessment"]
+        "enabledFor": [
+            "Course",
+            "Program",
+            "Standalone Assessment"
+        ]
     },
     {
-        "name": "Custom User",
+        "name": "Custom Users",
         "value": "customeUser",
-        "enabledFor": ["Program", "Standalone Assessment"]
+        "enabledFor": [
+            "Program",
+            "Standalone Assessment"
+        ]
     }
 ]
