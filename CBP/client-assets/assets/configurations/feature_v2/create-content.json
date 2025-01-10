@@ -99,7 +99,7 @@
     "id": "caseStudy",
     "isCollection": true,
     "name": "Case Study",
-    "description": "Create Case Study with a collection of modules and resources.",
+    "description": "Start designing your case study by adding modules, resources, and assessment to create an engaging learning experience.",
     "icon": "video_library",
     "contentType": "Course",
     "avalible": true,
