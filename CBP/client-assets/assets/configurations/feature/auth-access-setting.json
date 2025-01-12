@@ -10,7 +10,7 @@
         "enabledFor": ["Course","Program","Curated Program","Standalone Assessment"]
     },
     {
-        "name": "Custom User",
+        "name": "Custom Users",
         "value": "customeUser",
         "enabledFor": ["Program","Curated Program", "Standalone Assessment"]
     }
