@@ -538,6 +538,7 @@
             "content_creator",
             "spv_publisher",
             "content_publisher",
+            "program_coordinator",
             "cbp_admin",
             "editor",
             "admin"
@@ -560,7 +561,7 @@
           "subMenu": [
             
         {
-          "name": "Content",
+          "name": "Contents",
           "key": "mycbp",
           "fragment": false,
           "iconName":"school",
@@ -746,7 +747,7 @@
               "routerLink": "/app/info/about"
             },
             {
-              "name": "All Request",
+              "name": "All Requests",
               "key": "allRequest",
               "iconName":"home",
               "fragment": false,
@@ -766,7 +767,7 @@
               ]
             },
             {
-              "name": "My Request",
+              "name": "My Requests",
               "key": "myRequest",
               "iconName":"home",
               "fragment": false,
