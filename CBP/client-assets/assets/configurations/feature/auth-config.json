@@ -616,7 +616,7 @@
             {
               "name": "Batch Management",
               "key": "batch-management",
-              "iconName":"home",
+              "iconName":"svg_learn",
               "fragment": false,
               "render": true,
               "badges": {
@@ -624,7 +624,7 @@
                 "uri": ""
               },
               "enabled": true,
-              "routerLink": "/author/cbp/batch-management",
+              "routerLink": "/author/cbp/me",
               "requiredRoles": [
                 "program_coordinator"
               ]
