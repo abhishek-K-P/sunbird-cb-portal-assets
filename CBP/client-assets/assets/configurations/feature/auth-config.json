@@ -538,6 +538,7 @@
             "content_creator",
             "spv_publisher",
             "content_publisher",
+            "cbp_admin",
             "editor",
             "admin"
           ]
@@ -655,7 +656,7 @@
                 "enabled": false,
                 "uri": ""
               },
-              "enabled": true,
+              "enabled": false,
               "routerLink": "/author/competencies",
               "requiredRoles": [
                 "admin",
