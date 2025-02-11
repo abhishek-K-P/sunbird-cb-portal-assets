@@ -1949,7 +1949,6 @@
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
-      "Learning Resource": [],
       "Standalone Assessment": [],
       "Offline Session": []
     },
@@ -2869,7 +2868,6 @@
       "Program": [],
       "Curated Program": [],
       "Blended Program": [],
-      "Learning Resource": [],
       "Standalone Assessment": []
     },
     "notDisabledFor": {},
@@ -6809,12 +6807,6 @@
     },
     "disabledFor": {},
     "mandatoryFor": {
-      "Course": [],
-      "Program": [],
-      "Curated Program": [],
-      "Blended Program": [],
-      "Learning Resource": [],
-      "Standalone Assessment": []
     },
     "notDisabledFor": {},
     "notMandatoryFor": {
