@@ -10,12 +10,12 @@
       {
         "role": "mdo_leader",
         "title": "Acting as MDO Leader",
-        "description": "You can create user groups and edit the conditions of existing groups."
+        "description": "You can create and manage all user groups within the organisation."
       },
       {
         "role": "mdo_admin",
         "title": "Acting as MDO Admin",
-        "description": "You can create user groups and edit the conditions of existing groups."
+        "description": "You can create user groups and edit the conditions of groups you have created."
       }
     ],
     "default": {
@@ -37,9 +37,10 @@
     ],
     "reachAction": { "key": "reach", "label": "Check reach", "icon": "person_outline" },
     "rowActions": [ 
-      { "key": "edit", "label": "Edit", "icon": "edit", "allowedRoles": ["mdo_admin", "mdo_leader"] },
-      { "key": "copy", "label": "Copy", "icon": "content_copy" },
-      { "key": "use", "label": "Use" }
+      { "enabled": true, "key": "edit", "label": "Edit", "icon": "edit", "allowedRoles": ["mdo_admin", "mdo_leader"], "ownerOnlyRoles": ["mdo_admin"], "disabledTooltip": "Only an MDO Leader can edit the conditions of a user group created by another user." },
+      { "enabled": true, "key": "copy", "label": "Copy", "icon": "content_copy" },
+      { "enabled": true, "key": "use", "label": "Use" },
+      { "enabled": true, "key": "delete", "label": "Delete", "icon": "delete_outline", "allowedRoles": ["mdo_admin", "mdo_leader"], "ownerOnlyRoles": ["mdo_admin"], "disabledTooltip": "Only an MDO Leader can delete a user group created by another user." }
     ],
     "conditionLabel": { "singular": "condition", "plural": "conditions" },
     "emptyStateText": "No user groups created yet.",
@@ -54,7 +55,6 @@
         { "disabled": false, "value": "rootOrgId", "label": "Organisation" },
         { "disabled": false, "value": "group", "label": "Group" },
         { "disabled": false, "value": "designation", "label": "Designation" },
-        { "disabled": false, "value": "profilestatus", "label": "Verification Status" },
         { "disabled": false, "value": "service", "label": "Service" },
         { "disabled": false, "value": "Cadre", "label": "Cadre" },
         { "disabled": false, "value": "batch", "label": "Batch" }

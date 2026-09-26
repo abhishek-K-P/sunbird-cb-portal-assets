@@ -233,7 +233,8 @@
     "deadline": "সময়সীমা",
     "mostPopular": "সৰ্বাধিক জনপ্ৰিয়",
     "availableInLanguages": "{{count}} ভাষাত উপলব্ধ",
-    "completed": "সম্পূৰ্ণ হৈছে"
+    "completed": "সম্পূৰ্ণ হৈছে",
+    "unlocked": "আনলক কৰা হৈছে"
   },
   "allproviderscomponent": {
     "popularProviders": "জনপ্ৰিয় প্ৰদানকাৰী",
@@ -370,6 +371,7 @@
     "dulicateEmail": "ইতিমধ্যে ইমেইল নিৰ্বাচিত কৰা হৈছে"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "আপোনাৰ মূল্যায়ন আনলক কৰিবলৈ আৰু {{count}} টা পাঠ্যক্ৰম সম্পূৰ্ণ কৰক",
     "overview": "সংক্ষিপ্ত বিৱৰণ",
     "content": "বিষয়বস্তু",
     "sessions": "অধিবেশনসমূহ",
@@ -553,6 +555,11 @@
     "batchListExpiredMsg": "আপুনি এই মিশ্ৰিত কাৰ্যসূচীত নাম ভৰ্তি কৰিব নোৱাৰিব।"
   },
   "apptochome": {
+    "notAttempted": "চেষ্টা কৰা হোৱা নাই",
+    "attempted": "চেষ্টা কৰা হৈছে",
+    "attemptsRemaining": "<b>{{total}} ৰ ভিতৰত {{remaining}}</b> প্ৰচেষ্টা বাকী আছে",
+    "locked": "লক কৰা আছে",
+    "completeCoursesToUnlockAssessment": "এই মূল্যায়ন আনলক কৰিবলৈ ওপৰত তালিকাভুক্ত পাঠ্যক্ৰমসমূহ সম্পূৰ্ণ কৰক",
     "resume": "পুনৰ আৰম্ভ কৰক",
     "start": "আৰম্ভ কৰক",
     "startAgain": "পুনৰ আৰম্ভ কৰক",
@@ -2128,5 +2135,19 @@
     "overlayHeading": "শিকাৰ প্ৰতি আপোনাৰ নিষ্ঠা প্ৰশংসনীয়!",
     "overlayHint": "বন্ধ কৰিবলৈ যিকোনো ঠাইত টেপ কৰক বা Escape টিপক",
     "tooltipText": "শিক্ষাৰ্থীৰ লিডাৰবৰ্ড এটা মাহত অৰ্জিত কৰ্মা পইণ্টৰ ভিত্তিত গণনা কৰা হয় আৰু প্ৰতি মাহৰ ১ তাৰিখে আপডেট কৰা হয়।"
+  },
+  "planDetail": {
+    "progressOnPlan": "এই পৰিকল্পনাৰ অগ্ৰগতি",
+    "coursesCompleted": "সম্পূৰ্ণ হোৱা পাঠ্যক্ৰম",
+    "caCourses": "সম্পূৰ্ণ হোৱা CA পাঠ্যক্ৰম",
+    "comprehensiveAssessment": "বিস্তৃত মূল্যায়ন",
+    "dueDate": "নিৰ্ধাৰিত তাৰিখ",
+    "reportingYear": "প্ৰতিবেদন বৰ্ষ",
+    "locked": "লক কৰা আছে",
+    "available": "উপলব্ধ",
+    "of": "ৰ ভিতৰত",
+    "noCourses": "এই পৰিকল্পনাত কোনো পাঠ্যক্ৰম নাই",
+    "backToPlans": "পৰিকল্পনালৈ উভতি যাওক",
+    "unlocked": "আনলক কৰা হৈছে"
   }
 }

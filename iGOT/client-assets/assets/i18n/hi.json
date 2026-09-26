@@ -288,7 +288,8 @@
     "inactive": "निष्क्रिय",
     "completed": "पूरा किया",
     "unenroll": "नामांकन रद्द करें",
-    "reEnroll": "फिर से नामांकन करें"
+    "reEnroll": "फिर से नामांकन करें",
+    "unlocked": "अनलॉक किया गया"
   },
   "allChannelsComponent": {
     "noChannelsFound": "कोई चैनल नहीं मिला!",
@@ -443,6 +444,7 @@
     "dulicateEmail": "ईमेल पहले से ही सिलेक्ट किया हुआ है"
   },
   "apptocsinglepage": {
+    "completeCoursesToUnlock": "अपना आकलन अनलॉक करने के लिए {{count}} और पाठ्यक्रम पूरे करें",
     "overview": "अवलोकन",
     "content": "कंटेन्ट",
     "sessions": "सत्र",
@@ -655,6 +657,11 @@
     "batchListExpiredMsg": "इस बलेंडेड कार्यक्रम में आपका नामांकन नहीं हो सकता"
   },
   "apptochome": {
+    "notAttempted": "प्रयास नहीं किया गया",
+    "attempted": "प्रयास किया गया",
+    "attemptsRemaining": "<b>{{total}} में से {{remaining}}</b> प्रयास शेष",
+    "locked": "लॉक किया गया",
+    "completeCoursesToUnlockAssessment": "इस आकलन को अनलॉक करने के लिए ऊपर सूचीबद्ध पाठ्यक्रम पूरे करें",
     "resume": "फिर से शुरू करें",
     "start": "शुरू करें",
     "startAgain": "फिर से शुरू करें",
@@ -3055,5 +3062,19 @@
     "overlayHeading": "सीखने के प्रति आपका समर्पण प्रभावशाली है!",
     "overlayHint": "खारिज करने के लिए कहीं भी टैप करें या Escape दबाएं",
     "tooltipText": "शिक्षार्थी लीडरबोर्ड की गणना एक महीने में जमा हुए कर्मा पॉइंट्स के आधार पर की जाती है और हर महीने की पहली तारीख को अपडेट किया जाता है।"
+  },
+  "planDetail": {
+    "progressOnPlan": "इस योजना की प्रगति",
+    "coursesCompleted": "पूर्ण किए गए पाठ्यक्रम",
+    "caCourses": "पूर्ण किए गए CA पाठ्यक्रम",
+    "comprehensiveAssessment": "व्यापक आकलन",
+    "dueDate": "नियत तिथि",
+    "reportingYear": "रिपोर्टिंग वर्ष",
+    "locked": "लॉक किया गया",
+    "available": "उपलब्ध",
+    "of": "में से",
+    "noCourses": "इस योजना में कोई पाठ्यक्रम नहीं है",
+    "backToPlans": "योजनाओं पर वापस जाएं",
+    "unlocked": "अनलॉक किया गया"
   }
 }

@@ -143,12 +143,12 @@
           "showNoData": true,
           "pillImageUrl": "/assets/icons/home-v2/business.svg",
           "contentConfig": {
-            "cardType": "courseCard",
+            "cardType": "planCard",
             "showViewAll": true,
             "viewMoreUrl": {
-              "path": "/page/cbp",
+              "path": "/app/plans",
               "queryParams": {
-                "key": "cbpPlan"
+                "planType": "apar"
               }
             },
             "apiDetailsKey": "aparApi",
@@ -168,6 +168,38 @@
           ],
           "pillInfoCountKey": "apar"
         },
+
+                        {
+                            "pillKey": "draftCBPplan",
+                            "pillLabel": "Draft CBP Plan",
+                            "showNoData": true,
+                            "pillImageUrl": "/assets/icons/home-v2/AI_CBP.svg",
+                            "contentConfig": {
+                                "cardType": "planCard",
+                                "showViewAll": true,
+                                "viewMoreUrl": {
+                                    "path": "/app/plans",
+                                    "queryParams": {
+                                        "planType": "aicbp"
+                                    }
+                                },
+                                "apiDetailsKey": "draftCBPplanApi",
+                                "maxCardsToShow": 12,
+                                "cardClickDetails": {
+                                    "id": "do_123345678918764",
+                                    "type": "Course",
+                                    "subType": "apar-courses",
+                                    "courseCategory": "Course"
+                                }
+                            },
+                            "noDataMessage": "No data found",
+                            "translateLabel": true,
+                            "visibilityMode": "visible",
+                            "pillDescription": [
+                                "To be approved by Department"
+                            ],
+                            "pillInfoCountKey": "aiCbp"
+                        },
         {
           "pillKey": "caProgram",
           "pillLabel": "C.A. Program",
@@ -202,17 +234,15 @@
           "showNoData": true,
           "pillImageUrl": "/assets/icons/home-v2/calendar-check.svg",
           "contentConfig": {
-            "cardType": "courseCard",
+            "cardType": "planCard",
             "showViewAll": true,
             "viewMoreUrl": {
-              "path": "/page/cbp",
+              "path": "/app/plans",
               "queryParams": {
-                "key": "cbpPlan",
-                "tabSelected": "myIgotPlans",
-                "pillSelected": "all"
+                "planType": "cbp"
               }
             },
-            "apiDetailsKey": "trainingPlanApi",
+            "apiDetailsKey": "trainingPlanListApi",
             "maxCardsToShow": 12,
             "cardClickDetails": {
               "id": "do_123345678918764",

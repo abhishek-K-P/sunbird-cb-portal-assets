@@ -207,8 +207,8 @@
     "consentId": "external_content_enroll_declaration_v1_20251219"
   },
   "karmaRedeemPopup": {
-    "popupHeader": "You're all set! 🎉",
-    "pointsBeforeText": "Redeem",
-    "pointsAfterText": "Karma Coins to unlock this course and start learning."
+    "popupHeader": "",
+    "pointsBeforeText": "",
+    "pointsAfterText": "Karma Coins will be deducted from your Karma Wallet if you proceed with enrolment."
   }
 }
